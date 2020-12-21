@@ -102,8 +102,7 @@ ggplot(sample_n(tjierp_r, 1000), aes(x = x_r, y = y_r,
     labs(x = '', y = '')
 ggsave('tjierp_r.pdf')
 
-time_ids <- data.frame() %>% 
-    transmut(data.frame(time = sort(unique(tjierp$time))),
+time_ids <- mutate(data.frame(time = sort(unique(tjierp$time))),
                    time_id = row_number())
 
 # Set with 1 row per key combination (1 in each direction) containing summary of all data
@@ -120,10 +119,16 @@ tjierp_u <- tjierp %>%
     mutate(n_total = n()) %>% 
     ungroup() %>% 
     group_by(key) %>% 
-    summarise(x = x[1], y = y[1], 
-              x_lead = x_lead[1], y_lead = y_lead[1], plus_shift = plus_shift[1],
-              n_total = n_total[1], index = as.character(index[1]), index_lead = index_lead[1], time_id = time_id[1],
-              n = n()) %>% 
+    summarise(x          = x[1],
+              y          = y[1], 
+              x_lead     = x_lead[1], 
+              y_lead     = y_lead[1], 
+              plus_shift = plus_shift[1],
+              n_total    = n_total[1],
+              index      = as.character(index[1]), 
+              index_lead = index_lead[1],
+              time_id    = time_id[1],
+              n          = n()) %>% 
     ungroup() %>%
     filter(!is.na(key),
            !(x == x_lead & y == y_lead),  # Removes double button presses
@@ -152,7 +157,7 @@ ggplot(tjierp_u, aes(x = x,
 ggsave('tjierp_u_while_capslock_enabled.pdf')
 
 
-# Only plot 
+# Only plot the jumps that must have been a combination of shift and a key.
 ggplot(
     filter(tjierp_u, index %in% shift_indexes),
     aes(x = x,
