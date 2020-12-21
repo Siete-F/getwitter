@@ -1,0 +1,798 @@
+/1//1/////1/1/1////2////////////////2/1///2//////////''''/////'//...........88
+///////2```P/PP``2///``2///////////1///////'/11/1//111111111/``//1'1`'111212;``////////////////////11/'1//111///11111//1/1/1/1/1//
+[[[[[=[[[[[[[[[[[[[=[[[[[[[[[[[[=[=[[[[==\\\\\\''''''''''''''''''''''PPPPPPPPPPPPPP///////////////////////////////////////////////
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[Q[[Q[[QQQ[[q[Q[[Qq[[q[[q[q[[qq[[q[[[[Q[[[[[Q[[[[[[[[[[[[[[[[[[[[[[[[[=[[[[[[[[[[[[[[=[[[====PPP[[
+LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL.LLLL.LLLLLLLLL[L[L[L[L[L[L[L[LL[L[[[[[[[[[[[[[[[[[[[[
+LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL;L;;;;LL;LL;L;L;LL;L;LLLLLLL;L;L;L;L;L;L;LLLLLLLLLLLLLLLL.LLLLLLLLLLLLLLLLLLLLLL
+LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL;L;;;;LL;LL;L;L;LL;L;LLLLLLL;L;L;L;L;L;L;LLLLLLLLLLLLLLLL.LLLLLLLLLLLLLLLLL
+/A;A/Z;A/;Z/;;AA/;AZAZAZA;AZ;ZZAA/A;A;A;A;/;AZAZZAA;Z;;Z;;;AZ;AZ;Z;A;AA;;AZ;;;;;A;;;A;;A;;;;;;;;;;;;;LLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+LLL0L GG G GGGGGGGGRRRAZZAZAZA;ZAZ;ZA;ZZAA;ZA;ZA;ZAZ;;AAZ';ZZAZZZ;Z;ZZZ;Z;AZ;AZA;AAZ;A/A;A;AA/;/;AA/;/;AAA;A;A;AA;AZ;A;AA;AA;AAA;A
+llllLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL-L-LLLLLLLLLLLLLLLLLLLLLLLLLLLLPPPPPPPPLL
+l;l;l;lll;lll;l;l;l;lllllpll;L;lLll-LL-L-l-llll--lllLLLLl-l--llllLl-L-L-l;Ll-LLl-L-lLL-L-l--ll--l-l-l-l-ll-l-l-l-l-l-l--ll-l-l-lll
+l-l-l-l-l-l--lll-ll-l-l--lll--l-l--l-l-l-l-l-l-l-l-l-l-l--ll-l-l-l-l-lllllll;lll;l;l;l;lll;l;l;ll;l;ll;llll;ll;lll;llll;ll;ll-lll;
+[=[=[[=[=[[[[[[[pppppppppppppppppppppppppppppplllllllll-----ll-ll--ll-l-l-lll-l-lllll-l-l-l-l-lll-ll;lllll;ll;l-ll;ll;l;l;l;lll;ll
+0----------------=-===[[===\\[\\[[\[\[\[\[\\\[\\=\[=[\\\\[\[\[[\[\[\\[\\[\[\[\[\[\[[\[\\[[\[\\[=====\\[[\\[\[\[[\\\
+8888888888888888888811`111`11``1``444444444444444444444444444444444444444444444rrrrrrrrrrrrrrfrr
+88888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888887777888888888788787u8888
+ygygygygygygggyygygygygyygyygygygygygygygygyyggygyyyfyyyfgygygyyygy777g77g77g7g7gg7g7g7g7g7ggg7g7gfg7777g7
+gyyggggggygyyygygygyggggygyygggggyygggfggffgfffggggffffffffyyygggygygyyyygyyyfyfyyggygygygygggggggggggygyggggggggygyyyggggggygygyg
+gggggggg77fggggggggg7fggggggggggggggggggggggggggggggg77ggggg777ggggggggggg7g77g7g7f7fggg7g7g77g7g7g7gggg777g777777f77ggggggfggggyy
+7f77g7gg777g7gggggggggggggggg7gg7g777ggggggggg777fg777g77ggggggggggg77g7777g7g7g
+77777g7777gggggg7777g77g77g77ggg77g77g7g77g77g777gggggggggggggggggggggggggggffgfgggffggggggggggfffgggggggfgggggggfggggggfgg77777g7
+77777g7777gggggg7777g77g77g77ggg77g77g7g77g77g777gggggggggggggggggggggggggggffgfgggffggggggggggfffgggggggfgggggggfggggggfgg7777
+``1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq11111111qqqq1111666666666666666666666666666666666666666f6fff6f6ffff6f6g6gg6ggg66g66ggg7
+66UU6U6UUUU6U66666666666666U6666U6666U6U66666U6U6666UU6U666UUUUUUUUUUUUUUUUU7777777UU7UUUUUU677766667777777778888
+U6U666U6U6U66U66666U66UU666666UU6U6U6666666666U6U666U66U66UU66U6U66666U6666U66U66U6U666U6U6UUUUUUU66UU6U66U66U6U
+666666U6U66U66666U66U666666U6U6U676666UU6666U6U6U6U6U6667666666U66666U6U6U6U66UUU6U6U6U6U6U66U6UU66666UU66U66U6U6UU6U6U6U6U66666U6
+2222YYUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU666U666U66U66U6U6U6666U666666666666666666U6U6U6U6U6U666U6U666666666666666666U6U66UUU666666U6
+AAAAA2AAAA2A22A2AA22AAA22AAA2A2A2A2A2A2A2A2AA2AAAAAAAAAAAAAAAAA3AAA3AAAA3A33AAAAAAAAAAAAAAAA3AAAAAAA
+222222A2AA2A2A2A2A22A2A2A2A2A2A2A2A2AA22AA2A2A2A2AA2A2A2AA222A22222A2AA22A22A22AAAAAAA3A2AA22A2AA3A2AA2A2AA2A22AA2A2A2A22AA22A2A2A
+222222A2AA2A2A2A2A22A2A2A2A2A2A2A2A2AA22AA2A2A2A2AA2A2A2AA222A22222A2AA22A22A22AAAAAAA3A2AA22A2AA3A2AA2A2AA2A22AA2A2A2A22AA
+AAA2AAAAAAA31333211111W2A2AAAAAA2222222222222AAAA2A2A22222AAAAA222222A2AAAA2AAA2A2AAA22AAAAAAA2A2AAA2A222AA2AA2AAAAAAAAAAAAAAAAA22
+````11`1`1``1`1112222`2`222222`222`2`AAAAAAA2A2A2A22AAAAAA2A2A2A2A2AA2A2A2A2AA2A222A2A2A2AAAA
+``2[P;[P2`[P212[P2[P;P/HGHHNNNNNNNNNNNNNNNNNHHNHNNNNNT///PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPQPPPPQQQPQQQQQQ```P````
+``2`2````2`2``2``2````2[`2[``2``P[[2`[P[P2`P[P[P`2`2[P`[P[P`P[[P[P[P[P[2[2`2[`2`[[2`[2`2`2`P[P[[2`[[P[[[P[P2[2[2[P22[P22P;[;P2[;P2
+\\`\\\2`2`2`2`2```2`2`2[```22``2``````````````````2```2`````````2``[````````[``2````[```2```````````[[`2``
+POLLPPPPPPPPPQPLQQP`Q```Q`1`1```QQ`QQQ`QQQ111``Q11111111`1``11```1`````\`\11`1``````````2`2`````\2````\`\\``\``\\\`\`\\\\`\`\`22\\
+PPPLOPPPOPOOOOPPOOOPOOPOOLPPPOPOPOOPPOOPPOOOPOPOPPOOPOPOPOPLOPOPLPPPLP
+\-[PPKKKKKKKKKKKKKKKKKOKKLLKKPPPP--------------PPPPP0-0-0---0P-P-PPPPPP0PPPP-PP-P0PPPPP0P-P-PP--P---P-----PPPPPPPPPPPP0PPP-PPPPPPP
+PPPPPPPPPPPPP.PLLLPPPLPLPLPLPLPLPPPLPLPLPLPLPPLPLPLPPLPLLPLPLPLPPLPLPLPLPLPPPLLPLPLPPPLLPPPLPPPPHHHHHHHHHHHHH111111
+1``````````11PPPNNNNNNBBBBNB`GGGGGG G GGGGGGGFFFGFGFFFGFGFFCCCCCPPPPPPPPPPPPPPPPPLPPPPPPP/PPPPPPPPPPLPPPPPPPPPLPLPLPPLPLPPPPPPPPPP
+PLPLLPLLPLKLLKKLKKLLKKLKKKKLKKKKLLKKLLKKLLKKKLLLLLKLKKKKKLKLKKLKKLKKKL9LL9LL99KKKKKKKK9999999999999KKOOOOO9LL
+PPPPPPPPLLLLPPLLPLLLPLLLLLLPPLPLLPLLPLLPPPLPLPPLPLPPPLPPPLPLLPLPPPLPPPLPLPPPLPPPPLPPPPLLLPPPLPPLPPPLPPLPPPLPPPPPPPPLPLPP          
+QQS1111```````````````1```OOOOOMMMGGG http://www.ustream.tv/recorded/21142538 …                                                     
+///////444TTTT666666664R///QQ/11111111111111111111112121111112111111111
+LLLLPPPPPPSPPLPLPPPP--L----L-L--000///////////////[//'/'/''/E//EEEEEE//EE/EEEEEEEE.DDDERR/EE///
+IIKK/[/LL/L/[P[/[P/[/[P[P/[PP/[/P[/[P//[[//[/[/[/[///[[///;PPPPPPPPP;;;P;P;PLLLLLLLLLLLLLLLLLLTLTLFTFLLLTTLTFTLFTFLTFTLTFFLLLLL3LL
+--------------P/////////[[1111111111111\1111111111-11111111PIIIIPIIPPIIIIIIIBBBBBBBBBBBBHH
+[;[;[;[[[[[[[[[[[[[[[[;[[[[[[[;[P[[[[-------;---;-;-;-;---;-;---------;---;;--;-;---;---------------------------------------------
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP8PPPPP8PPPPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+////////[////////PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+//////////////////////////////////////////////////////////////////////////////////P/////////////////////////////[/[[//////////////
+///P[P[P///////////[[P[/[/[/[/[/P[//[/[/////////////[/[/[/[//[///[/[//[/[[[//////////
+/P//////[/////////////P/PPP/PP//PP/P/PPP/P/PP/P//PP/P/P/PPPP/P/PPP[/PPPP//PPP/PPP/P/P/P/PPPPP/PPPP/PPP[PPPP[/P[/P[/PPP[PPPPPPPPPP/
+PPP/////////P///P///P/////////[[/[//[//[/P////P/PPPPPPPPPPPPP//////[//////[////////////////P/PP//PPPPP/P/P/////////[//////////////
+/[////P//////[/P//[[PP[P/P/P/PP/PPPP/P//PP/PPP/PPPPPP/P/P//P///////////[P//////////////////PPP////[/////[/[/[/PP
+44AAAAAAAAAAZZZZZZZZXXXXXXXXXXXXXXXXXXXXXXXXX\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'/''P/[[///////////////[P[/PPPP/////////////
+eeeee5e5eee5e8888888\\][-\\\-----------00000[[P[PPPPPPPPPPPPPPPPPP00-PPP[P[[PPPPPPPPPPP0PPPPPP---
+rrfrrrrfffefrfrfrffrfffrrrfffffeefeffrrrerrrrrfrrfrfrrrffefeffeeerferrrferefeferfefexxxx
+[r;[refeffe;;e;e[;ree[re;reref;rrref[fffeffeffeereffeffrefffrferferfefrfrfeferfrfrfrferfeeffefefffffef
+fppfefffpfrfrffrfrfrffppp/f/rfp/prf/p/ppfp/fffffffffee;;fe;ff[;f;fffefffffe[f[
+-s-s-----------e---e--e-eerr;erere;;e;ffef;;efef;;/ef;;f;f;;/fe;;f;ff;f;//ffffpfepppfpppfff/pfppffpppfpffpfpffpppffpppfpprpfpfpfpp
+t4t4tt4rrrrrrrrrrdddepe'eepppppp'eedpppp'p'p'''e'eep''''e'''pe'eee'eep''p'pp''p''''ppexeexexee'xxp''p'p''''x'p'''ppppp'p'ppppppp--
+kkkkuuuuugggggggggggggggghhhhhhhhhhhhhhhhjjjj3555ee44544445555e5e
+vvvvvvvvggvvg ggvvvvvvvvvvvvvvvgvgvvg  g vvvvvvvvvfffffffffgfffg  nnnnnnn                                         nnjjjjjjjjjjjjjj
+tttvttvtvyftvfffttrttvytvyttvytyttrttvtttvttvtvddyyyvvgddddgvdgvgvvvgvgvddvdvddddgvgvvvvvvvvvdv
+vv  v v vv     ff f ff  f  f  f f        tffffvvvvvvfvffvfvttfftyfytyytffyyyftytyytyfftfftytvyfyfyftyfyfyyffyffffftvftvffftvtfftff
+b b  b b             n nnnmjvvv vvv v v v vv    v      v      
+44444455555533533555555554444444444444444448u8vvrrrrrrrvrrrrrvrvrrvrrvrvrrrvvvvvvvvvvvrvvvvvvrvrvvrvvvvrvrrvvvrvvrvrvrvvrvvvbnnv v
+tttttttttt4444444555t55fffffffff5f5t5t45f4tft4f4tttt4ft4tftfttftftfftfttfffffffffff6f6ff66666ffgf7f7555555454545454444444444444444
+ffffffffffffffffffffff5fff44444444t4t4444444444444444t4464656646466555555
+qqqqqqq222111`11`1q`q``q`q`````````1`11`111111111tftfftfftttf5tttttttttttttttttttttttttttttttttttttttttttfffffffffffffffffffffffff
+````````````````````````````````````````````````111111`q`q`q1``11212`2``12`1`212`11112`2212121112112`212``221222`222`22``22`22qqqq
+4444444545445444``11111111111111111111111111111`1```11`1`1`11111
+y77y7y7y7yyyyyy77888888y8778777888888yy888yyy8y8y7888888888888888888888888888888yniioioiiioooooooioioiiooiiiiiiiiooiiioioiiiiiiiim
+-----------------------rrr5rrrrrrrrrrrrrg6gggtggggtggtgtggggggggggg6gt6ggtgggggggg6gguuuuuuuuuuuuuuyyyyuyuuuuuuuy777y7y7y7yyyy7y77
+--------------9-----------9--------------9---9---9--9---------9--------
+hkhhhhyhhhhh8h8hh8h888hh8h888h8hh8h8h88hh8h88h8h8hhhahh8ahahhh8h8h8h8h88hhh8h8hh88hh8h8h888h8h8hh8h8hhh88h888h8ppppp--------------
+p-p-ppp-ppp-p---ppppp\pphhyyyyyyyhhhh8hhhhhhhhh8hh8h8h8hhhhhyhy8hy8hy8h8y8h8hh8yhyh88h8h8yh88hyyyhhyhyhyhyhyhhyhyyhhhhyhhhhhhhhhhh
+4555554545454545455554454453344444444444343444444444444444444444444545533333443355544454454544444545444444444544444455
+444434333343344444444444444444444444 4555555455555435      44445454444555444444444444444344444444445445535555555555555555455
+4115441``````````````````311111111111111111111313311111111111111111111111111111111nnnnnnnnnynnnnnnnnyny
+fvfvrfvvvv\\v\vvv\vv\v]\\\vv\v\\\\v\\\\\\vvvvvvvvvvv\\vvv]vvvvvvvyyyy\jyjyjyjyyjyyy,lll,l,lll,,lll,lll,l,ll,l,p
+w/'1'11111'1''''''1''''1''''1111'''''''1''''''''111p11//........................
+///f ; fvvf vvvv fff/// v vvv/v/ v v   v ; v;v;v   ffff /f /p//f  ///////;111wwww//1//1w/w1/1/w1w1w1w1w1w11
+,gg,,,////// / ;  /; // ///; /   ///  / //// //   ////     //// //////// //    ///////////////  / /  // /////////ff///f///f  ///f 
+8888878787878888uuuuuuuuuuu88u uu8i8iiii888ii88i8ii8 uu8uug     uuu8uu8u88888uuu8uuuu8i8i8  i             p     ,,,,  ,,,,,,,,,,,,
+vvttvvttvv  vv vvv vv  vv tvvttvvvvvvtt t t t  ttgtgg77777  8  87777787887878778g787878878788887877777788
+v v v        v      v    v vv  v v v v   v vv  v v vvvvv  v  v v  v v  v  v v v vv vv v vvvvvvv v vvvvvvvvvvvvvvvvvvvvv 
+gfgf fvf f vf f fffffffffffvvvv    v      v vv    vvv vvvvv vvvvvvvv vv  vvv vvv vvvv v  vv vvv v 
+11111111`````111111111111111111111111111111111111ffbbffbfbfbb bbbffbfbfbbbbfbfbfbbfggfffggfgggfgbggbgfggbggfggbgggbgggfffgbgbbffbg
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+111111111111111111111111111111111111111`1111111111111111`111
+`11`q11`1``1`1`1``1`````````1`1```1```11111````1111q11q-5`111111`111111111111111`1`11111111111111111111111111111111111111111111111
+1````111111111q1q1q1q1q1q1q1q1qq1q11q1q11q111qq11q1q111qq1q1q1q11q1q1q11q11q11q11q`qq`1q1qq`1q1q11q`1q1q1q1``11`q`11111`q1111`111q
+kkkkkk..................................................................llllllll
+/[/[[/t/tt//t[ttt//ttt/tt/tt/'/'t/ttt'/t'/'///'//////////tt///;////tt/////////p/pppp
+ffvfvvvvvvffvf111esuprerwwwwwwwdwdddwddddddddddddddddddddddddddddddddddddddddddeeeeeeeefrrrrp///////[tt/ttttt////t//t//t/t/tr/ttr/
+fffffvffvfvfvffefffefffefffffffvfeeeefefffefevfvffffeffefvvdddddeddddeddecddeddeeddddeddddddddddddddceedeefffvefvfvfvfvffffffffvfv
+ffffffffffffgfggfgffffffffffffffffffffffffffffffgfffffgffffffffffffff
+55555545545555545ee55e5555e5e5e54444e55e55ee5ddddffffffffdfdffffffeffffff
+yyyvjvvttjjtttttttiittttttttftoogooggfgfoggfgfogffggggggggggggggggggggggff00f00f0fffooooooof4offfof44o444o4oo444oooo5eo5o5e55i5555
+gggg66g666666666g6g66666gggggyyykkttjjjjjjttjjjtttttttttttttktttkkt5j5jjjgjjjttttttttgtt,t,,,tt,tttg,ggggggggkvvgv,,,
+gvgvgggggggggg'vggggvvgvgvggvggvgvggvgvgggggvgvgvg''g'vvvvgggvgvg/////4
+[[[f[f[v'fv[f[fv['[fv[[[[[v[v[[v[f[f[v[[['vvv[[vvfvfv[fv[[fvfvf[fv[['['v'vvv'vv'g'ggvgvgvgggggvgvvgggvvgg'g'vg'vg'g'g'gg''vgvg'g'v
+vfffff[ff[f=[[[=[[[[[fff[ff[fff[[ffff[ffff[[[[f  [[[[f [[[[[[[[[[[ [ff[[[r[rrrrrrrrrrrrrrvv
+juuuffgfggggvgvfffgfgvfgvvfgvvvvvvvgvvgvffvfvg[ffffv-vvvvvvvvvvvvvvvvvvvvvvvvvvvv[vvvvvv[[[v[[[[[[ggg[rrrrrrrrr[f[ggfrg[[f[rrrrfvv
+jjjjjjjjjjjjjjjjjjjuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu7uuuu7u7u7uuuuuuuuuuujjjj
+gggggggggggggggggggggggggggggggggggggggggggggggggggghhghghghhggggggggggghhghghhghggghgggggggggggggggffffjjjjjjjjjjjjjjjjjjjjjjjjjj
+MMMMMMMKKKKMKMMMHJJMMJJMUU=-------a----------------p-00000PPPPPP00000000P000P0P0PP-0PP0P0PP00P99999999909999999999999998888
+C///V;;PPPPPPP/PPPPPPPVPPP/VPPPPVVPPVPP/PP/PPPPPPPPP/PPPVVVV/////LV/VV//VL/L/L/L/G/////L/['[[[[[[[[[[[                      UUUUUM
+11UUUBUUUUUU11UUUUUUUU1U1BUBUUBUUBUUHUU1HU/''GVVVVVVVVVVVVVVVVVVVVVVVVVVV
+LU''WWWPPPPPPP000PP0PPPP0PP0PP0P01P0P0PPP1111111111WWWWEWWWWWWWWEEEEEEEEEEEEHHHHUUUUUBUU1U1111UUU1UUUUB1UB1UBUBUBBUUUH111BUB1BU1UU
+/////AZZZZZZZZZZZZZZZZAAZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZXXDXXXXXXXXXXXXXXDDDDXDDDDDXXXXXXXXXXXXEXSSSSXXXSSSXXXXXXXSSXXXXSSSSSSSS
+/q////aazaaaaaaaaaazz/aazz//zzaaaazaaaaaaaaaa/z////////////////////;;;
+tttttttttttt4ttttttttttttttttttttttttffffttttttttftfffc\\\\\\[[[[[[[[[[[[[[[pp////2111//111///1111q///////////q///////q///////////
+11111111111111111111111121111111111111111111111111111111111111111111111rrr
+1q111q1q1q111q1q1qq1q111111111112111111111111111111111111111111111111111111111111111111111111111111111111
+xxxxnnnnbbbbbbbbbbbbhhhhhhhjjmm,mmmmmmmmmm,11111111111111111111111111111121111q1q11q11q1111111111111111111111111111111111111111111
+//z/lz/lz/lz/zz/l/z/l/zzl/zzlzl//llzz/lzl/z/l/lz///lz/lz//lz/lz/lz///l/zz/l//zl/z/lzz/lz/l/lz/lz/l/z/lz/l/z/lz/ll/////lxx/xxxxxxxx
+azqlazl/azqla/zl/lqlzazlazazlazlazql/azl/ql/l/ql/lll/azl/azazqazql//laz/lazl/a/zazllz/zazllazz/l/zzzw/l//l//l/l////l/lll//l/l////l
+/z////l/l/l//ll/l/ll//llal/al//lc/lala/ll/aca/l/l/cllaclc/cll/cl/calc/callllllll//l///l/llc//////ll/llll//ll//l/l//l/l/l/q/lzaz/la
+111;;;1'p1111111qq1qq11111.1.azazzzzazaaaazazaazazzz...;..;;;..z.zzzzczz/az;a;z;;z//zz//az///////x;/lx/x
+ygggyggyyygggg6gggggggggg5g555g5ggggggg6gg5gglllllllllmmm,.....`111111111111111111111111111111''111''''''';1;;;11111;1;11;111111;;
+/'///''///////////////////////////////////////////////////////////////////;//;
+088888888888888888888888888802[[[[[[[p--[[p-[-p-[-[[--[[p-[-p[-p[-[-''p'p''p'p'p'pppppp//'/////''''''''/']']']]]]]'''']'''']//'///
+9890898980980898009090908908898098098098090889080980989088808989898908908908098098998009800998988989880888888880888888888880088880
+8898899898888989888889888889888898888888888888888888888i88888i88i88889898898998888989898989890890809080988098900898889898999998098
+t4tt4444t44t4ttttttttt4t4444444t4444t44444ttt44tttttttt4tttt4t44444444ttt44444444444t44tttt4tty44444444444444444444444444444444444
+44444333434334444444444432422222422444422244444444344ffff44f4fffff44f4f4f4f44t44ttt44tt4tt4ttttttt4tttttttttttt444ttt44t44tt4ttt44
+ttttttttttttttt/////v/////////////ppppppppppppuj7jujjjjjj
+1111111111111111111111qqqqqq11qqqqqqssssssssssszxxxxxxxsssrvvv                                                                    
+EEEEEEEEEEEEEEEEEEEEEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXZZZZZZZZZZZZZZZZ\ZZZZZZZZZZZZ-8QQQQAAA.
+11WWWW1WWWWWWWWWWWWWWWWW111VV11VVV V    11   1  1  1 V         `   VVVV    ``   ` `````````````HHH   ``  FFFFFFFFFFXCXXXFFFFFEEEEX
+P[PP[PP[P[PP[PPP[PP[[PP[[[[ PP[PPPPP[PPP[PPPPPPPPPPOPP[PPPPPPPP0P00P000000PPPPPP[
+0  X80X 88X 888X 98X  X880XXX898X98X0 X XX00XX 000000088X8880O88 888O88O88FFFF888808800000XXXX
+989 99 98 9880   809888880  8980 80 88080880880  8080088909900990900808 0808080880008080000800808008  80 088 0808008800908090808
+-----=-=----=-==-=OOOO=O=O-=-OO-O=-O-=OO=O==    0     89880888898998888098988 98 88 808 0800080  80 8080808    88 880   80  80898 
+111111AAA1AA1111111111111111111111X'X'XXXXX'X''[[XXX[[X[[[1111111111111111111111111111111111111SSSSSAFRV
+7Y7YYAAAAAAAAZZAAAAZZZZZ''100000000000000000---0-0---------0000--------------------------------00000000000000----00-=0111111111111
+SS``1`rtttttttttttttttthyyyyyyyyyyy[[ssssssssY777777Y77YYY77
+111126YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY1WTTRRRRRRRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXAXAXAAAXAXAXXAXAXXXAXAXAXAXXXXAAXXXAAAXXXXS
+77676554434444444444444444444EEEEEEEEEEE11111SSSSSSSSSSSSSS1122111111111111111111111111111111111111111111QQQ1111111111111111111111
+22222222222422222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222244344
+YY1111AAAAQAAAAAZZZZZ1242332222233244443444444422244432444444444442222423334222222222222222222222222222222222222222222222222222222
+7Y7YYYYYYYYYYYYYYYYYYY7YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+`114444III94555555555555555555554454455555577YYYYYYYYYYYYYYYYYYYYYYYYYY777Y7Y7Y77YY77YY7YYYYYY7YYYYYYYYYYYYY7YYYYYYYYYYYYYYYYYYYYY
+1111113111112111211aaaaaaaaaaaaaaaaaqaaaaaaaaaaaAaAAAaAAAAAaaAaa1111111111111111111111AAAAA
+1211111111111133313313111111111111111131331311113113111111313133111313113131131313131313131313133111111111111111111111111131212113
+1211111111111133313313111111111111111131331311113113111111313133111313113131131313131313131313133111111111111111111
+1111111111111111111111111111111111113111111111111111111111111111111111112113111111111111111111111111111111111111111111111111111111
+1111111111111111`````1112112121111111112111111112121212112111122111111111111``W2`112111111W11112
+11111111111111111111111111111111111111`aaqAAAAQQQQQQQqqqqqaaaaaqqqqqqQQAAAAAAAQAQAAAAQAAAAQAAAQAQQQQQqQqAAAAAQAAAAAQAAQAAAAQAAAA
+axxxvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvhvvvvvvv
+--9----999999999999-99------99-9-99------o-o-o-o-o-o-o--ooooooo-o-oo-o-0o-o-0o0oo-o-o-o-ll-ll-l-l-l-l-llllllllllp
+\\\\\\\\\------p----------------p-------p----p000000-00-0-09-9-9-9----99-9999999-99999990--99-9999999---90-9-90--9-0-0-0-00-0--9-9
+1''/8               100  000 000      0 
+VVVV                                  
+C   C   C C CCCC C C C C C        C      CC C CCC C      
+11111Q1111111111QQQQWQWQQQQQQQQQQQQQQQQQQQQW1FFFFF/MMMMMMMMMMMMMMMMMMMMMMMMMMMM MMM  M        M MM  M M               MMM   M     
+DDDDDFFFFFFFFFFFFFFFFFFTTTHHHHHHHHHHHHTTRTGGTGTTTGTCCCT8RRRRRRRUUUUUYMMNNNNNNNNNNNNNNHHHHHHHEQQQQQQQQ1111Q111111111111111111111111
+....'.''''''''.'''...............[[[[[[[[[[..OOOOOOOOOOOPOOOOOOOO9O9OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+q1o1q1qqq1q1qq1q11q11qo1qoq1o1oo1qooooo1oo1ooo1o1ooo11q1qq1QQO11QO1QO1QOOOQ1QQO1QOOO1OOOO1OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOPPPP''....
+vvtvqqqqqqqq1tQQQQQQQQQQTQQQQQQBBQ]Q1TT]Q11QQ1]]]Q1QQ1Q1Q1111Q1QQQ11Q1MQ1M1Q1111Q11OOOQOQ1OOQO1QOQQOOQ1Q1OOQ1Q11oq1oq1q1o1qq1ooq1q
+88111t8tt111t8tt8188t8t8ttt818tt888888t8t888888qqq8qqqq888q8q888qqqqqqqqqqqqqqqqqqvq
+mm/////;''/////iomoooomooooooooommm  ppppqqqqqqqqqqqqqz            o888`8tttt88t8t88t888t8t8tt8t8e8tttt81888t8tt18t8tt81tt8t81t1t1
+kikioooooooooooo0o00o00ooooooo----[---[-[[----[[---[-0ooo[ooo-[[[-99o///////,,,,,      ....kooo.ooooo.oo.o..l..oo..llo.o.o.oo.o.oo
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmk/;////////////////////--=--==-========
+h88h88h8h8h88h888h88h88h88h8h88qqqqsqqsqsqsqsqqqsqwqssqqwqssqsqqsqqqssqsqqzzxe555fththyththhthuuuhgggtttttttvvggfffffffffffmmmmmmm
+88888u8u8u888888h8h8888888888h88h8888h8h8h8h88h8h8h88h8h88h8h88hh888h8h8h8h8h8h8h8h8888888h8h88h8h8h8h8h88h8h88h8h8h8h8h888h88h8h8
+eq]eq]]]]]e]qeq]]eqeq]eq]]eqq]]qeqeqeeeq]eq]]eqeqeqeeqeeeeeeeeeeeeeerrrrrrrrrrrrrrrerr88888888h88h8h8h8h8888h8h888h88888h8888u88u8
+eq]eq]]]]]e]qeq]]eqeq]eq]]eqq]]qeqeqeeeq]eq]]eqeqeqeeqeeeeeeeeeeeee
+eeeeeqeeeeeee-e--e-eqee--ee-eee-e-e-]e]-e-]eq-]ee-]-]]--eqe--ee---eeee--]ee-e-e-ee---eqeeq-eqeqeeqeqeqeqeeeqeqeeq[eqe[]eq[]eq[[eeq
+]]]][[[]]p]]pp-pppppp-p]-]]]-]]]]-]-]]]]-ee]]]]]]-]]-]]]-]-]-]-]-]-e]e]-e-eee-[-[[-[-[[[[e[[eeee[[e[e[ee[[eww[eeee[eee[e[e[[eeeeee
+//////eee \        ]]]]]]]]]]]]]]]]]]\]]]   ]]]]]]] ]]]]]]] ]]] ]] ]]] ]]]]]]]]]]]]]]]]
+/////bb////ffrfff//ffff/ffff/f//fffff//eree//efeff/e//ffeefefefefeef/fef/fecefefceefcef///ccefce/////ef/fce/eef/fe/ef/e//fef//////
+]]c]]]]]d]cc]c]]c]c]dcc==]]]]d===]===]d8sseseseeee4ee4e4e4]=]==]=]====]]]]bb//////////b////b1/b///b/b/B/b//////b///BQ//q/Q////////
+TTTTTTTT    T TT                  1111FFMMM4444444O9111]]1]]=======11==QQQ=]Q]q1====]=1]]]]q]q]q]1a]]11]=1=]1==1=1111]]]]]]]]]c]d]
+O8O8O8O8O88O8888888888 88888888888888 88888 88 8O888888O888888888888J   8
+3[[3[[3[3[33333[333[33 [[2[2[2223]]]]]]]]]] H        FF F  FFFF PPPPPPONNNN8888O88O8OO8O8O8O8O88888O8O8O8O8O8O8O8O8O8O8O8OO8O8
+///[///[///[/////////////[[/////////////////////'[[[''''''']'[[
+GGGGYGYFYFGFFGGGG6]]]]]]]]]]]]F]]]]]]]]]]]]TTT]]]TTTTTTTTTTTTTTTTTT]]]]]TTTT]TTT]////////////////////////////////////////////[////
+T     F               F F              F          F  F     Y FFFFFGFFFGFFFFFFYGYYGGGGGGYGYGGGYGYGGGGYGGYYGYGYYYGYGYYGGGGYGGG
+RFFTT8QSXXDDW        FF4 44 F FFF        4  4  FFF F  F                                   B  B             B   B B B  B           
+RRRFFRFFRFRFFFFRFRRFRFRFRFRFFFFRFRFFFRRRRRFFFFFFRRRFFFRFRRRFRF
+FFFFFRFRFRFFFFRFRFFFFFFFFRRFFRFRFRFFFFRRRRRRFFRFRFFFFRFRFRFRFRFRFFRFRFRFRFRFRFRFRF
+FFFFFFF4FRFRFRFFRFRFRFFFFRFRFRFRFFFFFRFRFFRFRFFFFFFFFFFFFFFFFFFFFFFFFFFFFFRFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFRFFRFFRFRFRFFFRFFFFRFFFF
+33QQQQQQQWWWWWWFFFFFFFFDDDDDDDDDDDXXXXXXXXXXXXXXXXXXFFFFFFFFFEEDDDDDDEE44444444444EEE444444EDDDF44FFFFFFFFRFFFFFFFFFF4FFFRFF4FFFFF
+33W3W3W33333333333333333333333333333333333333333WW33W333W333333333333333333333333333333Q
+EEEEEEEEEEXEEEEKKEKKKEEEEKOKKKK```1111111N1NQQZXXXXXXXXXXXXXXWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWS44444444444444444443WWW33W3W3W333W
+[[11[[[[[[]]]]]]]]]]]   ]]]  ]]  ]]]  ]] ]]  ]]]]]] ]]W]] ] ] ]]  ]] ]]] ]] ] ]Q   ] QQQPQQQ1EXEEEEEEEEE
+OOOOOOOOOOOOOOOJOOOOOOOOPPFPPP[[[[[[[[[[[[[[]]][][[[[][]=[NN[=D  ]][=[= [=     [=    [ [  [         ] ]=[[ `][ []     ]]   ]=]=]=[
+[][]Q][Q[[][[[[]Q[]][][][]]]]]]]]]]///////////=H=[]=[]]]]]]]]]]]]]]]]]]]]
+QQ///O///O/O///O//////P//P/P//P//P////P///PPPPP/P/PP/PP//P/PP////]B]] B]]   B        b] [[ [[[[B[  [ [B][[[[BQBBB]]`B]B[[[]B[][[]B
+````````1117FD///////O///O/O/O//O//O/Q//O///////////O///O/////O/O/O////O///////////////////////O////////////////////////O//O/OO///
+zzzzzzddddddddddddddddxzddddzsaaaaaaaaaaaqzaaazazzqzaazzzzqqzzzzxzzzzzzzzcf////////////n  ````````````````````````````````````````
+3333333wqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqzzzzqqwwqqqqqqqwwzzz
+////////////////////////////,..gxxxzxxxxzxxqxxqzxqxxzxxzxzxzxzqzzqq xxzz   xxx  x  x xxaadadddddaaaadxxxxddd     xdxxxxxxxx3333333
+]]]]//]]]4]]]/]/]/]]]]]]]]]/]/]/']      1                              x  x    xxxxxxxxc//////////////////////////////////////////
+XQ//]]//]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]4]]]]]]]]]]]]]]]]]]]]]]]]][][][]]]]]]]]]]]]
+DDDDDDXXXXXSSSSSSXSSXMSXSXXXXXXXXSSXXXXXX    XXXXXXXXXSXXXXXXSS XXXXXXXXXXXXXXXMXXXXSX  XX XXX  SXXXXX     33 XXX MMMMMMMMM  ```XX
+///////C/LC/CCC////C  FFRRRRR RRRR   RRR RR RRR RRRRRRRRRRRRRRRRRRRRRDDDDDDDD
+CEEDDCEDEDCECFFDDQQQDEEDDFFGUUU'/'////////////;/;/;/////;/;//;/;/;//;//;;E/C/CC.///.CC.C///./CX/C/C///LC///C//////L/C/L///CCC///./
+-------[[[X0[X[X[X[X[[X[0[X[XX[[[[[XXX[[[XX[X[[XXX[X[XXXXXXXFXFFFFCFXXXXXXXX
+III9OIOIOIIOIOIIOIIIIOO9IOIIIOIOIOIIOOOOOXXXXXXXX[XXXOXXX;XXXXXXXXXX0X0XXX0XXXX0X0X0XXXXXXXXXXXXFF00C0--FFFFFFF--FF-------0D-0C--D
+9O889OO889OE88O98O98O88O988O98O88O8OXXXXX99899999O9XXXX9OOXX889OXXX88XXZXZ8X9Z9XXXX8XZX9XXXXX889999KKKKOKKKKO
+9889O89898O98989O89898988988989X89OXXE889O9E8898989O99O9O98O98O8O98O98O9O8O989O888OXO988O888XX8X899OO89OX889O9889OOE8988O98O988888
+9OEE889O9OE8889OO8889O9OO889O888X89XX88X8X9O889OX889O89O9O988989O988989O89O8O9899O899889OXXX8989OX89OOXXX89O88989O889OO9OO8X8O9O88
+MoojoOJJJJJMJMJMJUUUUJUJJWHWWWWWHWWWHHBHEERRRRRRRRE999R8RE8RERRR888E8E8EER88888888889898988988898889OOE8898988989O8XXE898O8O9O8E88
+'['['['`['1QQQ1Q'1`'`'`'`11O[11/1/1`QPTPPPP['[[[[[[ [ [ [[ [ [ [[   /]/][/][//]//]]/]/]/]]]//////////////;//KOKKOKKOKOKOOKOKOKKKKO
+'['['['`['1QQQ1Q'1`'`'`'`11O[11/1/1`QPTPPPP['[[[[[[ [ [ [[ [ [ [[   /]/][/][//]//]]/]/]/]]]////////////
+`11;1`;;O1;O1;;[11111[11[1[1[1[1[[[1[[111[1[[1`1[[1[`1[[1`1111`11```11`1`[[1''[11`11111'1''[`'1''`'''``1''11''1111111111''[111''''
+mmmmmmmmmmqMMMIMKIMMMBBBBBBBNBBBNBNBNBNBNBNBBBEMM=1O=1=O1O=O=O=1-O=O1=O==11OO11[111``1O=11O11111`1`111`[11111111111`Q1`11[11`[[111
+o88o8o8o88o888o8o88o8888o8o8888o88o8o88o88o88o8o88o88o8o8o8o88o8o8o8o88o888o88o8o8o8o88o
+O88O88O8OO8oo8o8888oo8o888o8888888o88o8o8oo88o88o88o8o88o8o8o88o88o88o8o8o8oo8o8o88o8o8o88888888o8888o888888888O88O88o8O8888O8o888
+DDDDDDDDDDDDDDDWMMMMMMMMMMMMMKKKKKKKKKKKKK FFFFFFFFFFFFFFFFFFSXXXXXXDXXXXDXDDDDXDXDDDDDDDXDXDDXXDXXDXDDDDDXXDDSD888O8O88O8O8O88888
+AAAAAAQAAAAXXXXXXXXAEXXXXXXXXEXEXXXXXXXXXXXXXXXXWWWWWWAAAWWAWQQQQQQQQZWQWWWQZZWWZWZQZQWWZZZAAAAAAQQQQQQWWWQWQWQQQQWUUUUUUUUFFFFFFF
+B      B BBBG TTTTTFFFFFF FX X WCWXXXXXWXXXXXWXXXXXX]]]]]]]X]X]]]]]]XX]]]X[]2]IIUUIUUUUUIIIIIIJJJJJO8888888888KKKK
+///.....................  /MHMHMM1MMM11`MQQQQQQQQ`Q         BN1                  UU               UUU   UH     BB B       BB B B B
+////////////////////y/y;//yy//y//'////;///'/////;/;;/;;;/'//////;/;///6y//////6/66666y6y////667777/6////6//tttt]6]]t6ttt/tt////t6/
+6y6t6t6t]t6]tt6tttttttttttttttt/tt/////////y//y/y66/6/66y6yyyyyyyy6
+////ee3ee//////e///ee3e//e//eee3////4//42/////xxe/e////e////////ee//////////e///
+]3]33/33r/3/3////////////////////////////////e////e//////e///e///'e///e/3/e'e/e3//////e/'///'///ee///e///////e/ee///eee/ee3e///e3/
+xxxxzxxx113w3////w///w//w3////w/3////////////////////////////l////3l/33.kjwww33w3www,wwww3wwwwwnnwn3n3ww3wwkkwkwkwkkwweee3ee3r33]]
+//pdd/dxxd////d[xd/x[d/x[dd/[d/d[//x/1/[///////[/[/[/[/[//xx/xx/'/'x'/'/'/xx''/'/'//////'/'/'/kkkkkxxxllxxxooxxxxoooooo
+CCCCCCCCCCCCCCCCCFWEWWWWWFFFEEWWWWXWWWEWWWW///WW//WEXXW/WWXWXW/X///,///////,//,,//;/;///,,/L,,,LL,,L,,//LLLLLLLL,lLLll/L//L///////
+]]]]]]]]]]]]]]]]]11]]]]]]1]Q]QQ]QQQ]]]]]]]]]]]XXXXXXXXXXXX]X]XXX]]X]X]]]XX]X]]]]X]]]XX]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]CCCCCCCCC
+T]]]]]]]]]]]]]]TT]CT]]]]T]]]CC]]]]]]]]]T]]]]]]T]]]]]]]TTTTT]CTT]]C]]]]]]]]]
+FFF//FFCF'FF/F/F//////V/V/V/V///VVVV//S/V/S/S////////////S//////S///FFXX//FF/FFFFFF/]/]/F/FFFCFFCFFF///]/////]]]TTTT]T]TTTT]T]]TT]
+SSSSSSXSSXSSXXX]XS]SS]CC]]X]X]]]SSS]]SS]]]SXS]SXS]]]]]]]]CCCSC]]]]]']]S]]]]]']V]]]]V]V]]///
+4XX4X4E4EE44444TT4T44T44T4T444T44T44[[0O0OKKKKOZSKKOOSKSKOOZOKZOKZZZ;;;;;;;;;Z;ZZ/////Z/Z///....Z000000000X000000XXDDDXXXDDDXXSSSS
+CCCCCCCCCCCCCCCCCXCXCXCCCCCCCCCCCXCCCCCCCXCXCCCCXCCCCCCCCCXCCCCCCCCCCCCCCCCCCCCCCCCCCCCCEEEEEEEEXE4X4X44X4X4XEX4EX4X4EEX4EX4EEXX4E
+CCCCCCCCCCCCCCCCCXCXCXCCCCCCCCCCCXCCCCCCCXCXCCCCXCCCCCCCCCXCCCCCCCCCCCCCCCCCCCCCCCCCCCCCEEEEEEEEXE4X4X44X4X
+FFFFFFFFFFFFFF56565665656555TTTTT5T5TTFFFFFFCTCTFCFCFCTTFFFFFCFCCFFCTFFDDCCCCCCXCXCXXXCCCCCCXCXXCXXCXXXXXCXXCXCXCXCCCCCCCCCCCCXCCC
+FFFFFFFFFFCFCFCCFFFCCCCCCCCCFFFFFFFFCCCFCCCFFFFFFFCFCFFCCFFFFFFFFGGG
+MJ\\\\MMHHJJ\=\\==N=NNN\\\\N\NNNNN\=FFFFFF\\\\\\=\\\=\\\=\=\\=D\\=DF\\\=\\F\=FFFFFFFF=\FF\FVGVVGGVG===V=V\VV\\\\G=\\VVVV=\=VVVV\\\
+OOO8OOOOOOOOOOOO888O888888888888888888888888888888RRRRRTTRRTRTRTRTRTTTTTRTTRRRTRRRFRFFRTNNNNNNNNHHHHH\MJJM\MMJMM\MMMM\\\MMM\M\JM\J
+/            NNNNN 
+]]]V V ]] V V ]]]] ]]] / ]]]/ ]]  ]  ] ] V]]V]]]]]     ]               G                         
+]]]]]NN]]/]/ ]N]]/]/]]] /]]]]//]]N/]]/]/]]/N]]]]N]]//]]//]]]]]]]]/]///]////] ]]/]]  ]]/]/] /]///]/]/ ]/ ]]/ ]/ ]//////]  ]] ] ]]]]
+1]]]]]]]]]]]]]]]]]]]]BB]B]]BB]]BB]BB]]BB]]BB]B/B]]BB]]B]B]BBB]]B] /] ]/]/BB]B]/ ]/]B]BB/]/]/BB/]/]
+n=1QQq1q=Q=Q1NNQNN NN1 = 1=b1b 1   ] ]q]]]] qq  Q ] QQQ] ]]Q]  ] ]]QQ]q]]]]]]]]]]Q]]]1]]1b]]]]1]]]]]]]]bb]qq]]q]]Q]qB]]]]]]]]]]]]q
+[-q[qq\[q\q qq1qq[Q[Q[\Q[Q[[qQq\\-\QNnnqqqqQq-QNNn[nn[qq\NNN    -nnnnnqqn1nqnn1nn1 \n\111nnnn \n[[nnnqqqqqqn nq QN=qQQQ====nn =n=n
+N=NQQ=N\NNnn =q==nnn==1=nn qnqQqqqn= QN nn\ \n qNn nQQ===nq=  =q=q[nN=nNN=qq=1=[=qq ==[\qQ====QqQqq1  -\Qq -= n -1 1\\\[Q[[[[QQ[[q
+qkq1kq]ql]]qqqkqkkkkqqkkkkkk qqqqqqq-  qq q    [  qq qq qq qq 1[[[ qq\q[  \[\ Q\Q\q[[ 1 1[ q[qqqnN  NN \nnNNnNQN\QqNN==nqq==qnn==q
+kqkkkkkkkkkkk1k1lqLLQLQLQQQKLQKKKKLQKKklklklqqklklklklqqklkllllqql1qkqlqkklqklqqkkklqkkkkl1qlklklq1kl1llk1kkklqkkklkqkqkqklkkkkkkq
+kkkkkkkkkqaaukuakkaukqaaukukaukqkKAQKKAkkkqukqqukqkkakqaaqkk0kkkkkkkkqkqkqkqkqkk1kkkkkkkkkkkk1k11q1qkkqkkkkkkkkkkkkk1kkkkkkqkkkqkq
+44444444444444444444wwwwwqwqqqw888u8u88u8u8uu8uuuu8u8u88u888u888u8u888888888888h8h888888888888888888q8q8qq8qqkqkkkkkqkkkkkkkkkkkk
+p0x00xx0xxx00000xx0000000a00p00pp--xxxx0xx-///'/'////// ]  ]   ]] ]] ]]  ]][[
+fffffffffffffffffffffff      xx   xx       xxxxxxxxxxxxxxxxxxxf  ffffm00ppppppp0pp00000pp00pppppppppppppp00000000000000p0000000000
+kko/xxxxxx//xxxxxxxxxxxxxxxx/xxxxxxxxxfffffffffffffffffffffffffffffffgffffffffffffffffffffff
+kk[///kk[////k/kk/k//k/ //kk//ooko,okkkokkokokkkkkookxkkoxkooxxkxxkkoxxkkkxokxkkkxxxkkxoxxxkoxxkkkxxkkoxxkkokxkokkkkxxxkkxkkooxxxx
+////////////////////////////////''///////////////////]===]=]==-]=]==]=]]]]]]]]]=]]]]''']/////////[///k[k[///k[/k[[k/k//[[k[k/k//kk
+'///////////////////////////////'///////////////////////////''/////'/'///////''/''''/////////
+/////////////////////8hxxxvvxvxxxxx//]/]///'//'//////////////////////////''//'//////'///''////////////////////////////////////////
+///////////////////////////////////////////////////////////////
+]]8888kkkkkkkkukk8k8kkkkkkkk8jkkkuujkkk8uk88u8k8kkkkujkkkkk88ku8u8uu888///////////////////////////////////////////////////////////
+///////;;///;;;;;/;/;;;;;;;///;////;///;;////////////[/[[][][/][/][/][/[/]]]]]/]/]]/]/]'///]/]'//'/]///////
+;;///////////////////////;//;;/;/;/;/;;//;////////;/;/////;/////////////////////;/;/////////;/pp//p//p//p///////////;;;;;/;;/;;/;;
+q////////////a////a////a////a/aw//q///a///qq/////qq/a//qa///q////////11///1///////////////
+a/a////a////////////q///////////wa/w/////a/a/a//a//////aa/a//a///a////qa///qa/[/qq[//qq/qa///qqqqa////a//qqa///qaq//q/q/////q/q///
+//q/////q////q/'////a//////'//////////'////'/'/a/'a/'/a///a//a///a///a//a/'/////a'a///a//a]'/a/a//a/a/a/////'/'/'a/'/'/qq/q//////a
+/////////x/////xw/x////x//x/x/////////////x/xx////'''qq'//q///////q//////'//'///////
+8']']]]]8]]]]/]///]/]////]//]/]/]/]]/]]/]/]/f]]//'//'//////////'/////////'/zz/'/z/'/x////x////'x/'///////x///x/'///'///'/'/xx/////
+k1kkkk1k1kk1kk q kkq \\kqk k\q\\\\kk \\kk kq1 q1k11 11qkk111qk           q   qqqkkk\\77677\\\8]88]]]]]]]]]]]]']']]]]]y]]8']]8]]]']
+] 1] 1]1]1]]1]] 1 ]1]1 11  ]1 ]111]1][ 1] ]][][QQ]]][Q[Qq=  =1 1  1  1Q Qqkk kk1 kk
+' q   qq q q qqq   qqq qq q qq qqQQQ  QqQ q     Q   ]1]]]]q1q1   ]]   ]  ]]   1]
+[1[][][][1[[1[[1[[[1[[1 111[[[[]1[][]1[]]]]11[1[[1]1[][11111[11111qq'qqqqqqq] qqqqqqqqqqqqqqqqqqqQQQMQQQQQq  qq b qqqq q qqq  q q]
+10oooo10o10100o110o0o110o101o110oo10100oo10o11o101111111111111pppp`pppppppppppppppp     [11111111]1]111]1][]1[1[]11[[][][1[11[111[
+]]=]]]]]]00-0-000==00====111`1`111`11111`]111``11111=11111`1`1`1111111=11`1`11111`11`qq=qp11-1-100o-10o-01oo110o11ooo1o111o1o0o00o
+///////]/]/]/G///]/////]////G//G///GT///GG//G/T//T///////TT/T///////////////////TT]/G/G/////BB//B////T///////////////]]]]]]]]]]]]]
+EDXXSXZXXZZZZZZXXXAXAXWXW\WXXWXW=F\=\==B==B=B=B\===\=\\\====FF=FFF=FF=F=F=F===F=F=FF=F=F=FF=FFF=F=\=T=====G\=\=G==VGGGGGVG==TTT]//
+FWEEEWFFFFFWWWWWWFEEFFEWFWWEWWFFFFFFFF4FFFFFFFFFFFFFFFFFFFFFSFSSSSSSSSXXDXDXSSSD
+88888888888888888888888OE4E44E4444E44E44444E4EEEEEEFFFFEEWEWEEEEWFEWEWEWWFFFWFWWWWWWWFWFWWFFFFFFFFEEWFWEFEFFFEEEWWFFFEWEEWWWWWWFFF
+KKKKKKKKKKKKKKKKKKKKKKMMKMMKMKMMKMMMMKKKKKKKKKKKKKKKK000000000000O0O000000OO0000O000000000000OO08888888888888888888888888888888888
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK     KKKKKKKKKKKKKKKKKKKKKKK
+////////[/[///[[///////////////[///////////[///[/////////////'/'////'/'///////[//////////////////;//;/;/;/////MMKKKKKKKKKKKKKKKKKK
+////////////;;//;;;;;////[/[/[//////////;;;;///;;//;///////////;////;/;
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK            FF ]]]]]]]]]]]]]]]]]]]]]]]]]0000-00--000//////////////////////////////////////////
+YYYYXYYYUHUUYUYUHUYYUHYYYUHYYXX88KIHHUHFFFFFFFDFDFDFDFDFDFDFDDFDFDFDFDFDFDFDFFFFTFEFFFFFFFFFVVJJJJJJJJJJJHJJJJJJHHJ J  HJJ   H    
+]]]/]//VVVCCCC  C ] 00////V]/FFVFFVFFFF/]FFFF] ]]]F]FF FC ]]F];;;///';;;/
+000000000000090000MMKM1NNN  NNNNN    N  NNN NNN    NNNNNNNN NNNNNNNNNNZZNCXCXNNNNNNNN NNNCNCCNXNXCXXFFFV]//V/]/V//]///////];]]]]/V
+]]0]0]0]]0]V]0000///OMOOM88888888888888J88888JJ888888888888888888888888888888J8888888
+[[//O/KKKKKKKJJKKFFCCD888888888888OO8O8O8888O888O8OX8OX8O8O8O88O8OX88XXX88888O8O88888OO8O88ODFFT
+BKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK K KKKKKKKKKKKKKKKBBB                       4YYY76TTTTTTTTTTTTTTTT]T8UUUUV     G          
+J8888U8U888888888888H888H8HMMMMMMMMMMMMMVVV                                                                                       
+BBBBBBBBQQHBBBBBHBBBBBBBBBBBBFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFK8K8K8JJJJ8UJUUUUJU
+kkKkKKqKNKQnKKKkKKKkQkKkkmkKMnMnMNNnnnmNMKKKKKMMMMMMHBBBBBBBBBBBBBBBBBBBBBBBBBBB
+44f4f44f44fff4444d44d44fvvvvf,m,56,..11,1,1,,,,,,,,...   d ///qQqqqq qq  QMqQQKkKQqnqKkkknKKKQQKKKKKkkKkKKKkkkKKKkkKKkKkKKkKKKQkkk
+4ff4f4df4df4df4f4f4ff4fff4ff44fdf4df44f4f44dff4ff44dfff4f4f4d4f4f4d4f4f4df4f4ffff4f4f4f4f4f4ff4df4f4f4f4df4f4ffff444f4f44f4444f4f4
+fff4f4f4ff44f44ff4dfff4d4f4f4d4fdfdf4fd4ffff4f4ff4ff4f4fdf44f4df4f4fdf4df4f4f4fdf4ff4df4f4fff4f4ff44f4f4f4df4f4fdf4f4ffd4df4f4f4ff
+ssssswsssssddddssssdssdssdsssdsdddddsdsdxxsxsxsxwxxwxwwxxxxxwxwsxwxwsssswxsssssssswssxwsxwssssxwxwwwffff4fd4f44f4f4f4f4f44f4f44f44
+0-q0- 00-0-0-0--00000--0-0-00------0-0,zzzzz0-z0kzkz0kzkkkk-xx0-xxxxxxxz//1114444444e4e4ffssssssssssdsdssd
+99999 9 9 99999999999q999q QqQ9q9Qq990999999/999/9//9//////9//99////////9qq900/o-0ooo0-o00000Q00Qqq0q-00q0q0q-0-0-0Q-0-0-q0Q0q0-qQ
+9      0  0 0 0 9  9X9X0000XXXX09 X0 0 0 X 0 X0X00XX09XX9X0900Q0Q9909090000099000000
+9W809809808WE8W800EE900EE99099W9E9EE90EE99 999000099900909  X0XXX XX 0XX9XX0XXX9XXX 09 X9X090X909X9XX X X0X00 009X00X0X 00099 9 0 
+88D 888 888X8XX8 8 88DX 888D 8  X  888X88DD888    8E E8  E E8   8 E I8E I88I8I8E I8  8E8WEW8WW080W8WWWW8W889888E8E8E088EE88 80WEW
+8O88O888O88O88888X88OO8X8O8O8O88O888XAX88XA8888XAXX8888O8888O8S888S888X88X88XX8X888880880880X8080X80888D888X88888X 888 X 888 X8X 8
+88888888888SPSSSSSS]SSSZ]]SZZSZSZSZZPZ]]PZSSSSSSSSSSSSOSOSSS88888888AA8A8O8AO888O88O
+QQqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+U88U8888U88888U8U8I89889998888088888088808808888088880880808080800808880808808088888
+PPPPPPOOOOOO;OOO/RRRR4TTT4TTRR8U88U8UUU8U88I8888III88888888888888888898999899999999988988998989888888888888888888999988998989888U 
+A]]0000000]]]]00]]0]00]]]00]]]0]]00000]00]00]]000008888K8888888888888O888888OKK8KK8K8888FFFFFFFFFFFFFFFFFFF
+A00000AAAAAAAAAFGXXVXXXXCXCCXXCXDXCCCXCXXXXCCXCXCXXCXXXXXXXXXCXXCFFCVVVVCCCCCVCCVCDCDDCCDCF
+VFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFGTGTGJJJJ,,,,,,,,,,,,,,QF000
+EFFFFFFFFVFFVFFFFFBBBFBBBBBGGFFGBBBBBFBBFFFFVVVVVVFFFDECCEECCEEEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFVFFFFVFFFFFFFFFFFFFFFFFFFFFF
+SSQSSSQSSSSSSQSSSSQSQQSSSSQQQSQSQQQQSSSSQQSSSSQQQQSSQSQQ2QQ22222QQQQQQQ222QQQQQQQZZZZQQZQQZQQSSZZAA
+//xe//xxxexe//x//xxx////xx//xx///x/x/x/x///x//////w//////////////////QEQQQ;Q;;;QDQ;;;D;DQ;QQQQQQQSQSQQQQQSQSQSQQQSSSQQQQQQQSQSSQSQ
+//xe//xxxexe//x//xxx////xx//xx///x/x/x/x///x//////w//////////////////QEQQQ;Q;;;QDQ;;;D;DQ;QQQQQQQSQSQQQQQSQSQSQQQSSSQQQQQQQ
+/8888//8/88/8888888/8//88/8/88//8/8/88888/8//8/mmOO///OOOOO//,O/;,///////////////////////////////x/x/.x/.xx///./xexxx//x/x/////xx/
+`kk````111`1`1``11mmmmmmmmmzzqzqzqqzqqzqqzzzqqzqqqzqz            m m]]m]]]88888888888888888888888/888/88//88/888//8/88/8/8/8888/8/
+i0     m m mm   t mmoooooooooooooooookkkkmmkmiiiiikikkkmmmmmmmm````mmmmm1m11m1111111kkk`kkk`k`k``k1``````m1`m```1`1```kk``k``k``k`
+]]]7]8]]]u]uu]]]7]]76]68]]86]=]]887]''][][]'[][][]'[][[]]'['']
+u78778777777777778887777777778,,,m`mmo8iiiooo8o8oiio8iio8888o8u8u88888888888888888u88888oo8u888ou8ou8u88u8u8u8o88888788888788788]]
+SSSSXXXSSSWXXXDDDXXXXXXXXXXXDFFFFFFFFFDXWWWHTTHTTHTHTFFRRDTDTTD6TTE
+XXXXDXDDXDDDDXXXXXXXXXXXXXXXDXXXXXXXDXDXDXXDXDXDXXXXRXXDXXXDXXXXXXXDDDXWXWDDDDXDXDDXDDXXXXXXXXXXXDXXXXXDXXXXXXXXXXXXXXDDXDXXXXXXSS
+XXXXXXXXXXXXXXXXXXXXXDXDXXXDXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXDDXDXDDDDXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXDXXXXXXXXXXX
+EEEEEXXXXXXXXWXWXXXXXXWXDWXDDXDXDXDXDWXXDXXXXXXXXXDXDWXDXXXXXDXXDXDWXXXXXXDXXXXXXXXXXXXXXXXXDXXXXXDXXXXDXDXXWXXDXXDXXXDXDDXXDXXXXX
+Q1Q1Q1Q1Q1Q1Q1Q1Q1Q1QQQQ1QQ1QQ1QQ1QWWWWWWWWWWWWWWWWWW3W3WWWW3333WWWWWWW3W3WWW1WW3W3W3W3W3W3W3W3WW13W3W3WWWWWWWWWWWW3WW3W
+QqQQqqQQqqqQQQQqQqqQqQQqQqqQqqqQqQQqQqqQQQQq``Q1QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ1QQ1QQQQQQQQQQQQQQQQQQQQ1QQQ1Q1QQ1QQQ1Q1QQ1QQ1Q1Q1Q1
+88888888888888886868868888888868888888886666666666666666666TTTT6T6T6TTTTTTT6T6T6TTT6T6TTTTTTTTTTTTTTTTTTTTTTTTTTHTTTTTTTTTTPPP
+88888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888Y88888888888888
+XXXXXXXXXXXXCXXXXFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDEXE8XFFFFFFFFFFFFFFFFFFFFFFFFFTTTTTTTTTTTTTTTTTTRRRFFCCCC8888888H88H8888888HHH88
+XK88X8K8K8888X8X8X888X8XX88K8K8XK8K88X8K8K888K88X8K88X8X8888X8X888]]/X]]XXXXXXOXXXXXOX0XO0XX0XX0XXXXXXXXXXXX
+8K8 K888 88  88888K8 K88 8888 8888K888K88 88 8 8888  8K8K88K88 88 8C888888888888888888O8OO88K888888K88K8K8888XX8888XX8K888K8X8XX88
+O8O8O8O88O8O8888O8O8O88OO88U8O888888O88O8O8O8O8OOOO888888K8K88O8888888K88OK8K8K8K8K8KK8K88888  K88K88 K8 8K8 K8 K8K88 888888888K8 
+8O8O8O8O8O8O8O8O8O8O8O8O88O8O8O888OO8OO8O8XOO8JO88O8OO8X8OO8O8O8O8OXXX8O8OXOX8O8O88O8O8O8OJ8OX8O8O88OO88O8O8OO88O8O88O8O8O8OO8O8O8
+Zz8o8o8o8o8o8o88o8o8o8o8ou8oo88oz8oz8o8oz8Z8O8O88O8O8O8O88O8OO88O8O8O8OO88OO88O8O8O8O8O8O8O88O8O8OO88OJ8O8OJ8O8O8O8OJ8OJ8O8O8O8O8O
+oqO,OOOOko,o,o,oo,ooxoxxxooxooooooooooxxooxxxooo8o88oo8oo8o8o8o8o8o8o8oz8o8oZ8O8OZ8OZ8OU8O8OZZ8O8O88OZ8ZOZ8OZ8oz8o8o8zoz8O8OZ8oz8O
+DXXDDXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXAAAAAAAXXAXXQQQQDXXXXXXXXXXXXXDXXXXXXXXXXXDXXX1--OKOO,,OO,OOQO,OOOOOOOO,O,OOQOO,QOQ
+FFFFTP/]]/]]]RRRRRRRRPPRPR0P0P0P0FFFFFFPPFFFF-FFFFFFFF0FF0P00F0F000F00FFFFFFFF0F0FFPPF
+]FF]F]FP]F]FF/F/FFMFFFFFKKFFFKKKFFKKFKFFFKFKKKFKFKFKFKFKKKFFKFFKKKFFFKFFFKFKKKFFKKFFFKFKFFKKFKFKKUKUFKUFKUFFFFKFKFFKKKKKKKKKKKKKFF
+FFFFFFFFFKLLLELLELELWWLLWDDDDDDDDDDDDD,,D,,DD,DD,DEDDDDDEDDDDDDDDDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFRRDRR]DD]DDDDD]FFF]F]FFFFFFF]
+////////////////////////////////////////////////////////////////////////'//////'/'////'////
+////;///////;//////////////////////;//////;;/;;;;///;;;;;///////////////[////[/////////[///;//;;;;;//;//;;////////////////////////
+/////[/[[[/////////////////////  /// [/   ///// / ; //  //;;;;;  ;;;;;///X/////////////////[[[[//;[//[/[////////[/[/////;/////////
+XXPPPP P P  PPPPP  P  PPPPPPPPPPPPPPPPPP[[=[[[[[[[[[[[[[[[[=PP=PP[PP[[=[[[[[[[=[[=[[/[//[[[///////////[[[/['''[[[////[/[/[/[//////
+88888KKK8KK8UI8K8K8K8KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK888KKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK888888888888888888888888888
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKLLKKKMLKKKKLKLKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+///////K/K//K/K/KKK/K//////KK/K////K/K/K/K///////KKK///////K/KK////////////L/////LLLLLLLLLLLLL/L/L/KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+////////]//''''''']]]///////P//P///KKKKKKKKKKKKKKKKKKKKKKK////////////KKKKKK//KKK//K//KK////KK/K/KK/KK////KK/K///KK/K
+///////////////B/////////////B////////////////////////// /////// ////BBBB///B/B/B//////// //] ]]]]]]']////]///]///// /]/]/]/]//]]/
+[][][][]]]]]]]1]]]]]1][][]]1]]['[''][===13131===[[====[====[=''['''['[[['[['['' ''=[[[[[PPP///B/B/B //// //B //B/ ////BB/ BB//B// 
+] ]B]]BB]]]B1]B]B11]]]1]] ]]1]N]]]]]]]]1]1N1N11NN] N] N   N]]]]]1]]] ]]]][]] ][]N[]N]N]NN]NN][]NN]
+]]]]0]]0]]]]X]]]]`` ]`1]\`111N]`11]]0NN]8]] ]]]]]]]]]]]N]]1] ]BB ]]]]BB ]]]]
+NN][=[=[[[===111=1=1[=[[= 11= 1[= [1=11 [=N1N1NN1 ] 1]]]NN]NNNN]]]X]XX]]]]]X]XNN]N]0]XX] ]]]]]X]]8]X]8] ]8]8]] ]]8]]NN NN8NNNNN88]
+7777]7]'7]7'7'7'']'74]'7]'''4]4'647']6]']]']7'']47]777]74]]]7]]4747'74]'74]67']]7474]]]]]]]]]]]]]]]]]]]]]]]]`]]]]]]]]]]]]]]]] ]]NN
+[==]=][=]T=]]\77]]]]]]]] ]  ]]  =        =             747474777777''6667777474744
+/////////////////////////p/           ]=]][]==]===]]=][]=[=[=[=[=]==]=][]==]]=]]==[=]TT=T=T[TTTTT=T=T=[=[=T=[=]]=T=]]====]T==[=[==
+]]]]f]ff]f]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]//ooool/o/ooo/o//////o/o///////o/o////o/oooooo/o///////////
+]]]]]] ]]  ] ] ] ]  ]]] ]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]ffdd]]dd]d]d]f]]]dddd]d]]dd]dd]d]d]]]]]dddddd]]
+AAAAA]AAAAA]AA]]AA]]AA]A]A]A]] ]A]AA]]]A]NA]A]]]N]N]]]]SSS]] ]]]] ]SAAAAAA]]]]]]]]]]]]]]]]]]] ] ]]N  ]     XXX ]]X XX]]]]]XX]]]]]X
+]]]]]]]]]]]]]q]Q]]]]]]]]]]]]]']]]]]]]]]]]]]]]]]]]]]A]]]AA]AAAAA]AAA]A]]AA]AA]]AAA]]]]]]]A]]AA]AAAAA]]]]A]]]]A]]]AAA]]]]]A]]]A]AAAA
+/////////e/////ee/////////////ee////////eee/e/eeeeeeeeettttt
+/////x//x/x/xx////////]x]]]f]]f]]]]//////]///]/////]/]////]/]//]]///]//]///]/]//////////w//xw//w/w/////w///////////////x/////e////
+aaaax,ax,ax/1/././.1//.///s/sax///./=./1=.1x./x/1/x/x]xxx]]]./]/./
+//as/a/\3saa/a//\a//sax///\ax2//a/xaxa/aaxaa\aaxaxaxaaxaa;11aaxaxaaa/1a;/a/aw/a;aa//xx;/ax/a////a/aw1a/aax1a,aa1a,a1,/a/,aa11,aaa,
+z3z33azaz3az333az3a33zz3z33333z3xz3xz3xzxz3=3z=x44x4eddd==//\x=//x//xx/x//x/x/x/x/x/=/x//=//==///x///x/=/x=////ax\3\\\sax\s\ssss3s
+3333333aqaqzqzqsz3qs3\sq3s3zqs3zqzq3qsz\s3qz33zqsz\3zq3sz3q33qzq3zq\qz3qszqzqzq33qaaaz3z3333z33zzzzzaz33zz3zq3zq33zqz33z3qa\33\3zz
+]w]]h]h]]]]h]h]]h]]]] ]]]]8]]n]] ]h ]h h8]8]h 8hh vvvvv=bb=b    ===
+]]] ]]]]] ]88]]]]]]]]]]]]7]]7]]]]H]H]H]]]]]HHH]]H]]hh=H]]]]]H]]H]]HH]]]HH]HYHH]YH]YH]HYHYHH]H]]]H]H]HHH]]]]]h]]
+]]wxww7/xxx]xxxxxx8xxw]]]]]]w]w]w]]]ww3w8w]]8w]w]]]wx8]]]6x8]x6xw3]]]6]8]]38]]]]3]3]]]]]]]]3x]3]]]3]33]3]]]33]8]]]8 38]]]]]]]]]]]]
+///////a0x///4 f           f/]]8\]\]8\]\]]\]8\\]\]87\]78]8]\]]4 \4 88 4 48 8\ 8\ \8\7\\778wxwx\w\8 xww/w/8h/]]h]]w]]wyw]ww]wwwx]]w
+I]I]i]]]]]i]]kiki]ki4kikikiiikikikiki]i    ik]kkk]]ik]k11ki 1 ki1IKKkiii]]i]  m          8 8 88  1  1 1       xx0x]]]]]0]]]]]ox5d
+]L]]]]L]]]]Ll]LLLllLl]]]]]]]kk]K]KKK]KKkKKKIKIKKKIIKKI]KIIKIkikkKKKkk]ikKI ik  i i   i k]]kiki]  I I IKII i ]] ]ki]i]i]]jIii]j]i]j
+]]]OL]LO]]]O]OO]LO]LLOLLL]LLOLOLLOLO;LLLL]]O]L]L]L]]]LLLLL]LL]L]]]]LL]L]]L]L]LLLLL]]LL]]]]]L]L]]LL]L]LLLL]]]]]]]]LL]L]]]LL]]L]O]LL
+LLL..LLLLLLLLLLLXLLLLLL...XLLXLLLLLL.LLLLLLLL111,,,]]]]]]]]],],],],]]]]]]]]]]]]]]]]]]]]]]O]]LL]LL]L]]]L]OLL;]LL]L]]LO]L]L]LOL]]LOL
+LLL..LLLLLLLLLLLXLLLLLL...XLLXLLLLLL.LLLLLLLL111,,,]]]]]]]]],],],],]]]]]]]]]]]]]]]]]]]]]]O]]LL]LL]L]]]L]OLL;
+3333333333EEEEEEEEEEENEEEEEEEEEEEEEEEE888888OO8OLLLL.O.O.O.O.OO.O.LOLO.LL.OO.LLXOLOXLLLO.XXOXXXLLLL.OLLLLL..LL.LLLLO.LLLLLLOOOOLL.
+ffFFFFFVFFFFffVvFffffffffFFfffFff F FFFFFffffFfFFFFFFFfFFFFfff ffffFFFFFFFfFFFFffffFf
+ffffffffffffffffffffffffffffffffffffffffFfFFFffffffF f   f F  F f f     f     FF   F  f  F   FFFFFFFffFFffff fFFfFFffffFfFFFFFFFvf
+/e/////eeee4erggggggggvv                                                                        c         c     
+qwnqwqqaqaanaaaaaqanknnnnaqsnqqnnqqqqqqaaasqnnsnnqqaqqqqsa aaqaqaqaaqaaassqqqqsassa/a//aaaa/aaaadqssqeeeeeeeeeeeee/e/e/e//////////
+kkk k kk  kk kk kk 11kki11 k  kikkkekkkkkkkkkoggggggggggggbb`bhbbbhb`b````bhb`b```````n``nnwwww1wwwwq
+[a0[000[a00awww00wa000wwwww0w0w0wa0000[00[0[00[a000a00aaaoaaa[00[ [ [aaaa0[aaa0[00[0[00000000 00q0[q0[q  00 [00  0 0 0   q  qqq  k
+////////ttt'/t/te/'''d'dtdt'dtdrrrrrdfffffffffffffffff'ffffffffffffffffff`f```f`f`]1`1]nn]]]]]]]]]]]]]nnmnm \\\ n \  0  0     0x0[
+wee4e4e4w444we4w44w4w4444w4www444e4e4e44e4e44eee4eeeeeeeeeweeeeewe
+0ee0eee0ee0rr40400r0r40r0pp4p4pr4prr4rr4w4r4r4eeeeweeeeweeeweeeeweeweweew00ew0ewewew444rrr4r44r4rrrre4eww444w4e4444w4w44eee4e4e4e4
+ss00qsqsqqqsqsqqqssqqqq00qsqpssqqppqssqsseeeee0eweeeeeeeeeeeeeeeeeeeeew000eeeeee000w000ee0e0weewee
+juuuu]]]]]][]]]0000000o0000000p000000000000000000000000000000000000000000000000000000000000000000000q000000qqqaa0aa0aqqss0sssq000s
+88888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888uuu
+888888888888888888888888888888888888888u888u888888888888888u88u88u888888u8u88888888u8888888888888888888888888u88888888888888888888
+www4444444444448888888888888888888888888888888888888888888888888888888888888888i9i88888888888888888888888888
+rffrrrrrfrfffrrrrfffrfffffrfrrrrrrrrrrrrrrrrrrffqqqqaaqaaaaaaqaaqaaaaqqaaqaaqaaaaqqwwwwddwqqq11qqqqqqqqqqqqqq``q11```3
+4w]]]4]]]]]=]]=]]]]ttttthhtttththhhthhtttttththhhhhthhthhhtttthhhhhhhffffffffffrrfrffffffffffffrfffrfrfrfrfrfrffrfrffrfrfrfffrfrrf
+]w]'3w]3w]'w']333]wwwwww]wwwwwwwwwww[ww]wwwwwwwww]]]]'wwww]'w]]wwwwwww=w=]]wwww]ww]ww3w]]ww]wwwww333w3www3wwwwwwwwwwwwwwww[\\
+]]]]]w4w4w4ww4]]w]]w4]]]w]]]]ww]]w]]]w]w]w4]]]w]]]]]ww]w]]ew]wew4ww]ww']ww]]]w4]]ww]w]3]]w]]]'w4]]www]]]]]]]]]]]]]w]wwwwwww3w]]3w]
+w]]4]]4w]44]44e]]]]]]44]44]4]=ww]w3w3w]3]]333]3]]3w3444wwwwwwwwwwwwwwwww3wwwww\4w
+ttttttttttttty777fffffffffffffffffffffffffqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqeeewswfffwwwwwwww4w4w4w44w444w]4]4
+e[e[eq[eeeeeeq-eeq-eeqeeeqeeeqeeeqeqqeaeqeeqeqeeeqeqqqqqqqqq]4t44444-4]]4-0]0]4]0]4[][]4[][][][[[[[[]-[-[][[[4[4-t[]]]]]]--4tttttt
+88fppp------------------0000000000]]]d]dvd]]v]]]v]]v]vvvvvvvd[[pppp[[[[-[-[-[--[[[[-[[[[[[[qqe-qee-eeqeeeeeqeee[e[eeeeeqeeeee[ee[e
+444fffffff444ff4fff4fffff4ffff4ffffffffffffffffff444f4ff444fffffff44f4444rff44
+efddddddddddddddddddddddd4dddddddd44ddffffffffffd44dddfdfdddfdfd44c44dddddfdddddfdffff4ddddfff4f4fdd44ffdffffffff4fff44f4dffffff4d
+C 
+H
+``````````````````]]OOOOOO99HHHHHYYYYYYNHHHHHHHHHHHHHHHHHHHF
+']']']''''''''''''''']'000000000088888888888888888888888888888888888888888888888888888888888888888888888
+]'''''''']]]']''''''''''''''''''''''''''''['']']'['''']''/'//'''/'//''//'/'/'////'/''/'''
+]']'['['[']']'']TTTTTTTTTT]TT]TT]]'TTT]'T']T]'']']T']']]]]]]TTTT]T]TTTTT';]]]']''']']']'''']'']]]']]]]'']']']']']]]'''']''''''''''
+[[[D[[W[W[[[D[DD[DW[[[DVDDVDD[D[VD[V[[V[[VV[V[V[VVV[V[[0[0[[[[DDD[[DD0TTTTTTTTTTT'''''T''']
+[QQQ[[[Q[Q[[QQQQQQQQQQEQ[[[[Q[Q[[[[QQQ[[QQQQQQQ[QQQQQQQQQQQQQQQQQQQQQQQQ[[E[[QEEQQ[[QQ[[QQ[[Q[Q[[QQQ[[[Q[[[[[[[[[[[[[[RR[[[R[RR[[[
+111[1[1[1[111[[111[[1111111111[111[QQ[QQQQQQQQ[QQQQQQQ[[[Q[QQ[[Q[QQQQQQ[QQ[QQQQQQQQQQQQQQ[Q[[QQ[[Q
+`0``````00000`0```[``````[[`[[1[11111[[[[[1[[[[11111[11[[[H[11111[[111P11PP11P1P1P1111111P0PPP1P1PP[[[[[[[[111[[[[[111[[[[[1[[11[[
+--FFF0FFFF--W-W-W--W-W-WW--0W---0-000----AA-------------A-------A--AA-----A-A----
+FFFFFFFFFFGGGGGGGGGGBBB/////LKK//KK/////K//KK/K//K///K///KK////////////////L/LL//L///////// FD FFFRRRFF4F4FFF4FWFWQQQ0000Q0-QQ---Q
+]III]O]OOK]KOK]]O]]OMKK]]KK]]K]]OMZ]KZK]MMK]ZKM]K]ZMMKM]K]]]MKM]KMM]FFF
+]ZO]O]O]OOOI]IO]IO]IO]Z]]OI]OO]]O]O]A]OAO]]]]OZO]O]O]O]]OO]OOOOO]OZ]O]O]O]OO]OD]]OO]]OZ]]OAO]\]O\O
+MXXMMDMIDMDDDDDDJDIDDMMM44M44MMMMMXJMXXMMM]X]]]]MMX]]]==]M==XX]=]=XXM]J=MJJM]]MM]=]M]=ZM]=MMM]]MM]]M]]M]MMMMJM=MZM]]Z]]MO]]]]]]]OZ
+--------QDDAW\           F FF]F]   [  [  V 0FFFFFF FF F F F F F KK WKKKXXKIKKIKXXIKWXKKXWXKIWKXWXKXKXIKXXKXKIKIKXIKKXXXXMXMMXMXXXX
+RR0E0EERRORE5OERER5EEOOE5O5E5OEPEOPEOPEEOEEEOE5EOOEEEOEPEOEEEOEEOEOEOEPEOOOOPPOPOPPPPPOPPPPPPPPOOOOOOPPOOOOOPOPOOPPPPPPO0P0PPPP-
+00EE0E005000000000RR0R00R00R000000E0E0E0R000R00R00000000E000ER00000E0EE0R0EER5R5050000000000ERR
+333303030000000000000000000000000RR000R0000000000030000EEEEEE00E000000EEEEE000EE0EEEEERE000000E0E00E000E000E00000E00EE00000E000000
+333303030000000000000000000000000RR000R0000000000030000EEEEEE00E000000EEEEE000EE0EEEEERE000000E0E00E000E000E00000E00EE0
+z//////////xxxxxxx.xz.zz.xx.xaaaaaqqaaaaaaA4RR44RRR88888888888O8888888800808883083388888088888808888888889999999939333333030333333
+axxxaxlllxxxxllllllllxlllddddxxlxlllxxxxxxxlxllllllllllllxxaxxaee
+\\ \\  \\\\\=         [      =L8LLLLLLLL88LL8L888            8888 8I8888  88  8 8 8I888I888888888888//////aallalalxxldllddlxllxllx
+88   888 I8 8 8888     8  8I8888 8  88888 8888888888 8 88  88I80 88888I8 8 8 888888888 888888888888I88888  8
+288228288888\I888888\8888 88]8]8]88]8]8]8I88]]888]88I]8]8I8]888I8]88]]88]8]888]8]88 ]88 8]88 I]8 0] 88 ] ]]888]]88  88 88     888 
+]X]-]X-]X-]--]-]]-]-]]-]]]]]]]]]]]]]]]]]]1]]1]1`---]1`-1--111]]]]21112222P[M1P[12 21O22O2OO22221288I808218888088228822888282181288
+]T]]T]]]]7=]]7==]]]]]]==]]]]=]=]4=]]]X]]]]=X445454444444444=4=4=5444454544444 4]][][4][][]44]]]]]]]]]]-]]]]]]]]]]]]]-]MM]]]-]M-]]-
+tttttttttttTTTTTTTXXXXXTXXXTTYTXYYXYYYY\YTYYY7TT7YTTTT7TTTT7]]]T7T]77]]]]=]==]
+kkkkkkkkkkkkkkkkkkkkkkkivii,i,iik  i k      kkd k,ikkfkkkiii,kkkkkkkiiiiiiiiiiiiiiuuiiiiiiiiiiij            ddddqq   qqqqddd 4tttt
+kkkkkikkikkkkkkkkikkkkkkk k k kkkkkk kk kkkk kkkkkkkkkk kkkkkkikkkikkkkkk k  kk k         kk
+kk kkkkkkkk kkkkkkkkkkkkkkkikkkkkkkkkkkkkkkkkkkkkkkkkk kk    kkkk           k      
+kkk  k kkkkkkkkkkk kk kkkkkkkkkkkk kkkkkkkkkkkkkkkkkk    k k kk k  kkk   k k k   kk  k k  kkk   kkik ik kiikkkkki  kikikkkkvkk  kk
+ikkkikkkikikkkkkkkkkkkkkkkkiiikikkkkkkkkkkkkkkkkkkkkkkkkkniniiknnkkkkiikkkkkkkibkikikkkkkkkkikkikkkkkiik  i kivkikkkkkkkkkk  k kkk
+ddddd/d////////////////////////////////////d/////////////////dd/dkoiooioooooioioookb  b b  kkookkoob oook         bbbbkikkkikkkkkk
+]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]88888888888888888888888888800008000080o0008008o08o8000oo80o0o8o0o0888o08o
+]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+/////rr]]]]d]]]]]]]]r]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+/]/]/]/]]/]/]//////]//]/]//]]//]]/]///]//]/]/]/]/]/]///]///]]/]/]d//////////;//////////////////////////////////////////////r//////
+/]/]/]/]]/]/]//////]//]/]//]]//]]/]///]//]/]/]/]/]/]///]///]]/]/]d//////////;//////////////////////////////////////////////r/
+]]]]]]]]]]]]]]/`//////`//`//;///]]///]//]///////]/]/////]/]]//]/]///////]//]//]///]]//]////]/]//]]////////////////]//////]/]////]/
+]]]]]]]]]]]]]]/`//////`//`//;///]]///]//]///////]/]/////]/]]//]/]///////]//]//]///]]//]////]/]//]]////////////////]//////]/]/
+iiiiiiiiIIIIIIIIIIIIIIIAAaaaaaAAAAAA8Aaaaaxxxxxxxxxx]]]]]]]]]]]]]]]]]]]]]]]]]q]]]]]]]]]]]]]]]]]]]]]qxqxqqxxqqxxxxxxxxxxxxq]]]]]/,]
+ff8ff 8f ]ff ffffff f8f f8  8f   8f ff f 8f8ff  f 8f ff88f8f8f                               i
+. . g g g            ///     d   / d ffff/ f f ffff]]]fff]fff]fff]ff8f] fff]f]f]]ffffff ]] f]f'f]ffff]fffff]'f]f'f]f]]8]]f ff8f
+. . g g g            ///     d   / d ffff/ f f ffff]]]fff]fff]fff]ff8f] fff]f]f]]ffffff ]] f]f'f]ffff]fffff]'f]f'f
+gg;ggg'  '''.      '. g g g g '..  .'   '.        '.''   .          ' gg   '.   g   g g g  g           .'.'    .       g  g  . gg 
+33        .....          c       c c  ... .c    ;   . .`  ..`v v.   ..'  . .  .. ''.       ''  4        ''.'..'.''.     '.   g  ;
+8888yhhyyyyyyhhhheeeeeeeeeeeeeeeeeeeee333333333333333333333   33  3 3  33     3       3  33  3  3  3 3 33  33    3 3 3 3333       
+wwwwwwww444444444444534444333wwwwwwwwwwwwwwwwwwww4ww444wwwwwwwww444ww4wwww4w4wwwwweeeeee44eeeeeeeeeeeeeeeeeeeeeeeeee444
+``````1``````22111312132131132332111113131211111313132222122212332222
+//] //  // ]] //`]``/]/`/```/`/]``/]/]]//]/]/`];/;`/]//11/1/`/`1/]/`/`]/1]`//]/111/]//]``/`/`/`;////``;`/1`1`1/`/////;];/;1/;//]1`
+/////;/;w/w//ww/ //w/w//l/l////  ll/l///// / l/l///// l/ l/ w//ww/w/w/l////// / www/ // ]]]www// ]  //w// 
+/22//////222;22222///w/[w/]/]/]/];///w]/]ww]/ww///]/;/]////]/]]/]/]/]/]///
+]'] //  / //   /2  //222/;/22/;2/ ;22/22//2;/2/////2;/;/22/2/]/2]/]/]]/]/////222222222222]///////////////2//2/222//22/2///22222//2
+rrr]]]rr]r]]]]r]r]]]]]][][][][]]][[][r[[]]]]fffffff]f]ff]  ff[ff[ff]]ff]]ff]ff]]fr]ffffffffff]]ff[f]ffr]frr[f]r]]]][]]]][[[][[4]]'
+ttftffffftftftftttttttttttttttttttttttttttttttttttttttdttt    fefeeereettrrrrrrrrrrrrr
+==============\=============   ==b===  =   == =\\\\\\\\\\\=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\111\\\aqqqqqqqqqqqqqqqaaaaaaaaaaaaaaaawatt
+=------------a---a-a---0-a---a---------008888a8888888888888888888e...ss.ss.....ss....ss;s;;..s.s..ssssssss..ss..ssss.sssss;;.;ss;;
+u8iui88iui8uii8uiu8i8u8ii8u8ui8uui8uiuiuuiu8iu8iuu8iuuuuuui8uiuuiiuiiii8i]]]]]]]],],]]]]]]]]]]
+8888888888888888k8888888k8888888888888888888888888888888888888k8888hk888888j88888hk88k8888888888h888h88888h888iui8uuuuuuuuu8uuu8iu
+fb    bboboon             bbbbbbb         bbbbbbbbbbbbbbbbv                  lbbbbb  lllllbbfffffffffffffffff 04444r
+ffffdfdtdtdfdfdttftdffttd/////.f/f./fffdfdfdfffdf//fd/fdffffdfffffffdfdddfdff./.fffd.ffdfdf/f..fdff/kffftftfdffdffffdfkdffffdffdft
+ooo[[o[[[[[[[[[[[[[[222222222222222222222222222222222222222fffffffffft/////t/////ll/lllllll////////////////lfffffffflfddfdffffffff
+]e]r]r]r]r]eee]reeeee]e]eee]e]]]]r]]3rrr]r]r]]]]]]rr]rrrr]r]rrr]]rr]]]]]]]44e4e4e4e4e4e4rr[[]][]
+-------------------------[eeeeeeeeeee3e3ee3e3e3ee3eeeeeeeeerre=ee0eeeeeererererrrrdrdrrrrrrrrrrrrrdr]][]]]rrrr[]e]e][]]]e]e]]e]ee]
+]]]]]]]][[[]]][[]                                                             
+35353333333533333335555555555333533434444435355355555555555355553533533333333333333333433434343344343453444
+4454455444445445445454544445454545454444444555555555555555554555545554545445454545454455555555533333333354454555555555555333333333
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee5444444434344444344434444444444333333333335343434444444444444444444444443544545
+888888888888888u8i8888888iiiiiiiiiiiiiiiiii8888888888888999998
+]]]]]]]]]]]]]]]]fmmmgm/888i8i8888i888888888888i8i8i8888i888i8i8888888u8888i8i888888u888u8888uuu88888888888888u88888i8iu8i8i8888888
+]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+bbbbb
+/8FQF F\ /\f/ i/\8\iF/8FI 8F /\88/I8//F F/F F8/ /\//f  //f f qf fff //f  /f////q//
+/88/ / 88/ /IQI/8 I 88/Q8OOQ///i8Fi/8/i/if I8F I\/F F  I///f f8/ 8OF/ 8I8/I/ ///I8fff/i8i/8f  /8ff /f8fi8 //i/f/ f f/   /FQ 8F \/F
+/88/ / 88/ /IQI/8 I 88/Q8OOQ///i8Fi/8/i/if I8F I\/F F  I///f f8/ 8OF/ 8I8/I/ ///
+i8i/8q  i/8 iq8/ // /8I8/ 8F8 8/8 o/8 / 8q o/8o//8O/8/ //8/ 8O/ //8O / 8O / /8 OQ/Q8O//G/8O // G /QGQ/8O  /88///8/8   8Q / //8 /Q
+i8FIQII Q QIIIIIIIQ Q iii8 q ii8 i8I8 I8I8I88 i8q88 88q88qq   8i8 8O8O/88O  8 I/8 8o  QQ   q////i8/ //i8o//I i/8/ i/8// 8/q/i/8 oq
+8oi8o 8i8oo i8oi8 i8o8o i8oi8oo   8I8O I8OI8O I8QQ8IQ8OOQQI8Q8OQ 88O 88O8O8 88O     I  88O 8 8OO  8O  II8O QI8QO iiq8oiq8i8oqi8i8
+0000000000   ff   ff [[0=f ==0f  00ff0f f00=f f f0=f 0=f0 f ff=0 ff       0=== = 0        iiiiii       i8 8 8 8oo8o o8o8o 8i8 8o i
+]]]]]]]]]]]5]]]555//55]5555;]5]]']]']']']']']']]]']5]'']]5]]4400
+ddddzdzdzdzzddxxxgffffcfffffcfff1111122212111111113131333111131113111333331313444]]]]]]]]]]]]]]]]]]]]]]]]]]]]4]]]]]]]]]]]]]]]]]]]]
+zzzzsskfzffffzzfkffffff0kffafffkqk0ikkkkkkkeeeeeeeeeeeekkkeeieekeeekeeekkkeeeiieeiek0ekkkkeeeeeeeekk0ekiiikekkkkixixii
+ko  k k k okoko ok ko kkkkokko kkxxxxk  xkx k kooo z okk  k kk   kkxkk k        kkssssisssssssozsszsszzzssssssssssskkzzffffffzffdd
+ko  k k k okoko ok ko kkkkokko kkxxxxk  xkx k kooo z okk  k kk   kkxkk k        kkssssisssssssozsszsszzzssssssssssskkzzffffffz
+eeee[eeeeeeeeeeeee0eee                        ookokkkko oookkoxkkoxoxoookxookookokkxokokkoo  koo kkokk k kkk   k kk  kkk  kk k kok
+kkz8zkki8i8zzi8i8ki8i88z8kz8z8z8zzz80zqzx0x000x0xxxxxxxx00ii
+xdd00d00fxfxxdx[[deedeeeeeeep00paaa[aa0[0a0[dq=q=zazaaazaakakkazkkaaazkakakzaz88zz88zi8kz8i88k8k8kdkz8kk8zqz88kz8z8i8di8id8dki8z88
+///0[0///[/0[0//x/[=0[xx[x[[=x[xx[dddddd0xxp==ddxxxdxd==xxa[=xxx=x=axxd=dx[=xdxxd[[dddddd0d[[xxdxxddd00xd[dddxddx00000d0xdxdxx00xd
+zzzzzz[[[zzzzzz=zzzzzp0/d[[ddpdddddd[x[d[xd[[x[d//d[[[xx[d0d[ddd[ddddd[[dd[ddx/[x[[=[[[0=x0x[//[xx
+0]/[//]]///////]]//]]/]/]]//////]]]/]/]99999999999       tthtththtttttttttttttttttththhttht7tttttttffffffffffffffff./....qqqqqqqzz
+]]DD]DDDDDDDD]]DD]]DD]D]D]D]]]D]]]]]D]D]]]]]]DD]]]]]]]]]]]]]]]]]]]]D]]]]]]]]]]]]]]]]DD]]]]]]]]]]]]]]]]]]]]D]]]]]]]]DD]D]]]DD]]]]]]
+1]11]]1]21]]1]]]]]]11]]11]]N]]N]]1]N]N]]11]]1]11]]]]]]1EDDRRRRR]]R]]]]]]]]]]]]]]D]DD]DD]]]]DDD]D]DD]DD]D]4]DD]]]
+Z9Z99999Z999ZZZ88Z8ZZZZZZ8999Z99Z99Z9ZZXXXXXXXXXXXN                  N   NN   NN                               ]//]]]]]]]] ] ]21]]
+9ZZXZ9ZZZZXZ9ZXZ9XZ9XZZZ99X9XXZ9XZ99XXZ9Z99X999Z9ZZZZZZ99Z9Z99999ZZXZXZXZ9ZXZZZ999999XXZZXXXZXX9X9XZ8Z88X88ZZXX8ZZZXZZZZZZZZZZZZ99
+888D888D8DD888Z88ZZZZZZZD8DD88DZXXXXD9999999999999999999999999W9E99E999D99ZZ999Z99999ZZZZZ9999
+kkkkkkkk```j`11n`EEE888888888888888880808080808ZZ0Z8Z8888XX88X888X8888ZXX888888XXXZ8888888888888D88887DD8DD7D8888888788W7888888888
+``888888`8`8`88`888888`88```88`88k88`88888888888888888888888888k8gg]]]]8888ikkkkkkkkkkjkkkkkkkkkk
+q`qq1111eeeeqeee3qqedddxqxdxxqiiiiiiiiiiiiii8xxxxxxxxxf]]]]]]]]888kkkkk0k0kkk0kkk0k0i0iiik]]b]ppiiiiiiiiiiiiiii````k88888888888888
+xxxxxxxxxxxxxxxxxxxxxxxxxxuuuuu8j8j8j88jjjj8jj8j8j8jj8jjj8j888j8j88jjj88j8jjjj8j8j8j88j8j8j8j8j8jjj8j8j88j88j88j88u8uj888juj8j8j88
+zzzzzzszzzzzzszzsszszszszszzzzzzszzszzzzzzzzzzzzszszzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzffffxx
+zzzzzzdzdzszszszzzzzzzzzzszsszszsszzzzzzzzzzszszzzzzzzzzzzzsssssssssssszzszssszsszszssssszzzzzzzzzzzzszzzszzzzzzzzzzzzzzzzzzzzzzzz
+zzzzzzdzdzszszszzzzzzzzzzszsszszsszzzzzzzzzzszszzzzzzzzzzzzsssssssssssszzszssszsszszssssszzzzzzzzzzzzszzzszzzzzzzzzzzzzzzzzzzzzzz
+q]=qqqqqQQ================]====]==]]Q]]]]Qq=]]]qqqQQQQQQQQqqqq
+]]C]C]C]C]C]CCCC]CCC]]]C]]]]=CC===]=]][[[]XF[]]X]]]]]]]]]]]]]]]]]]]]]-]]][[[[]]]]]]]]]]]]]]]]]]]]]]]]]QQqqq]]q]q]Q]]QQQ]]]]Q]]QqQ]
+]]C]]CCCCXCCX]CX]X]]XCCCCXC]XXX]CXC]XC]]CC]C].].CCX.]].X.].[.]]..].X[][][][][]XX].]X]X
+w]w2ww]ww888,8]]8888w288282]28 ]]=]=]]]=2=2]]] ]]]]]] ]].C]XCC]X]C]CX.]]C]XR]cx]]],cx]cx]cx]x]]]]]]]cx]x]]xcc].xC]X]]],,CxcxCXC]XX
+\t\\tnt \]]]]]-n]r \]rr-rrr\r]-\\--\-]]33e3\]]]]]e0030]e]eee0ee00e]ee]]e]eee]]]e]]]]e]]]]]eeee]e]]]]]ee]ee]ee]]]]eeeeee ee]]eeee e
+\t\\tnt \]]]]]-n]r \]rr-rrr\r]-\\--\-]]33e3\]]]]]e0030]e]eee0ee00e]ee]]e]eee]]]e]]]]e]]]]]eeee]e]]]]]ee]ee]ee]]]]eeeeee ee]]eeee 
+ee444444444]]]]rree]][[][]ee[[ee[]e][][][]e[ee[][]ee[ e[[[]]e[[[[[[ [ [[][[]66 ]                        666ntt66tttttntttntt\\\\tt
+ffffffffffffffdfffffdf fffffff ffff df ffd f f dff f f dfff ffffffffffff fff ff                  v                   
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdfffffdfffdff  fffffdf ffdffdfffdf
+qdzzqqzqzqqzqsssssssszszzqqssszqszszqfzdxxdxdxedxxffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+flffffflffffflfffffffffooo ] ]      ]oooooooffffffooo]ooo o ]]  o]o]ook]
+/of]fffff]o/f/offof]ffo]o]ffffoff]]o]ffooof offffffoffooffofo]offff ]]f/]/]/]/] x ]x x /]  l l l lll   offfff lfffff flfffflffffff
+]  ]  ] ]    ]]] ]] ]  ]      ]   ]] ]]]]] ]]  ]]] ]]]]   ]]] ]]  ]] ] ]   ]][[][][]]]   ]]] ]]]]ppffffff  ff ffffofo/
+/////////////////``]``                                                                                                            
+8/////////////////////////////////////////////////////////////////////////////////////////`///////////`````````````````/////`/////
+5555555555555555555544444444444443444444444444444454444655335777\
+ii8888ikikikiiikkiiiiikkkkkkkkkkkkkkkkkkkkkkkkkkkk88k8k8ik88kikikkkkkkkkkk8k8ik8kk8kik8kik8kkkkkkk
+dffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff888gggg
+ttttttffffffffffffffffffdffffffdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdfffffffffffffffffffffffffff
+mmkmmkmmkmkmmmmmmm000  0 0  [00000000000[00[0                                                b  bb                                
+sssssssssssssssssssssssssssssssssssssssssssssss/]//]]]]]]                         mmmmmmmmmmmmmmmmmmmmmmmmkmkkmkkkkkmmmkmkmkmkmkmk
+fffffffffqqqqqqqqqqqqqsssss2ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+ffffffffffffffffffffff7ff7f7f777f7ffft7ff7f7tf7t7tf7ftf7tffft7f7f7fff7ff7tf7yf7fftff7tfft
+qqwwwwwwwwwwwww111q1w111111w1qqqqqqqq11122342433332332322332322444333433344444423243433334332wwfffffffttftftffffftffffffffffff7ffy
+788]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]=======================================------=
+dwwwwddddwdww888888888888888888888888888888888888888888878888888888888888788787888887888888888888888888888888888888888788888888788
+d/3//////ffd///////rrr rd rrrdddrr3rrdrrrrdrrdrrrrddrdddddddddddd
+/////oooo/o/oooo/oppppppopoooppppppppp]][][[[[l][[[[][ll]]]]]e]l[/ee,eeeeweew4.eeeee..ttt.ff.fff.r/...rfrrfrfrffff/////..//eee/eee
+]/]//]]/]]]/]]/]]/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+]/]//]]/]]]/]]/]]///////////////////////////////////////////////////////////////////////////////////////////////////////////
+] ] [ ]     ]]      ]  ]    ]]   ]]                 ]]]]]]//]//]/]/]//////]/]]/]]]/] /]/]/]/]]//]]]] /]/]]]/] ]  //  //]/]/]/]/
+bb]]]]]]]]]]]]]]]]]]]]]     ]]   ]]]]]]]  ] ] ]] ]]      ]    ]  ] ] ] ] ]]    ]   ] ]  ]]    ]]     ] ] ]   ]] ]  ]] 
+aaaaaaaaaaaaaaaaaaaaxaxazaxaaazzzzaxfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ggggggggogggggggogogoogogggggggggkgkgkggkkkgkkkgbbbgfgg    g   ggg gg
+weweeeeeeexeeeefffrrdeeeeeeeeeeeeeeedededeeddedd[dddddddddddddddddddddddleeeeededddedeeeededd444dt4
+wwzaazawaawzwwwwwwwaawwaaaaaaaaaaaaawwwwaaawwwwwwwzwzwzwzwz zwwzwzaaaaawzaaawwzaaaaaaaaaaawzwwaawzswwwwwwxeexeeeeeeeexweeeeeeeeewe
+8888888wz8zawziwzii8ia8awz888aaaaaaz8w88w88awz88a8aaawzwaawwwwwaawzwwwzwzz
+89888a8a8z88z888zzz8z8z8a z88888zz88z8z88zz88888888z8zz888zza8889898989888e88z889zw8z8z8n88zwzw88zw888zaaz888aazw88z888az888z8888z
+zzazzzzzzaz8a8az8az888a8888z8z888z88z8a888z8z8zz88zz8zz8a9z8zzzzzaz8mza888zz8z88889989a9988mz8zzzz888z88z8zz88a88z898a8m9989898z8
+98m888z99azz88z8z898z9z8zz989z8z98988zzaz8za88888zaza88az898az888z8zzazzz8z8898989zza8989z88z8z88zz9898zzz8888898z8z8z 88z zz8z8zz
+/ /[[l         889898989898898988889889898zz8zzzmzmz98988888888988988z8z88zz88888899888898z989888989z8898z988z888z9898z88888898
+]]]]]]]]]]Z]]]]Z]]]]]]]QQQZQZZZQZQZQZ'']]']]]]]]'']'']]]]/]/]//]/ /////]]/]//]]/]///]]//]/]/]///]//]//]/                          
+X                 ZZZZZ]]]]]]]]]Z]]]Z]]]]]]Z]]]]]]]Z]]]]]]]]]]]]]
+FFFFFFFF--KKCK-KK KKK       KC K C  K C C KK      KKK0KKK0KKKKKKKKKKKKKKKKKKKK0KKKK00000000,0.0                                   
+-=4-5-=5-45-=5--=5-=55-53-5355--45-454-445--4-545-44-44444-4343--444-44-44-4-4---B-
+`-``--`----``-`-`-`-``--``--``--``--`-`---1-1`-111--`1-12`-=2-2-`21`2--`--1``-1-21`211-12-`---Q--------4-=----45=--5=45-45-=5-4545
+eeeeeeeeeeeeeeeweeeeeeeeeeeeeeeeeeweeeeweeeeeeeewweeeeeeeeeeeeeewwwwwwe000000------------------------------``---``--`-`-``-``-```-
+aaxxasaxaaxsassasssaaxxxaxassssaxassssxaxxaxssaaaaaaaasaaaaaaxeeeeeedeeeeeeefeefecfefeccffec
+xasssaxssxaxa axaaaassassaaaaxaxaxaxaxxassasassaxaaassaassaxaa aaaaxxxxaaxaaxxsssssxssssssssxassssssxsssxsxaaaa
+zzzzazzz]a]z]]]]]zz]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]wq]]]w]w]]ssss]a]a]]]s]a]]]ss]]sza]zsazaza////az]azazaz]ssssaaaasssssssss
+eeeeee   e  e  eeeeeeeeees   s8888787878778778787888887777778777
+`
+[[[[xxxxxxx                                                                                                                       
+7z7777\\\\\\8\\\zzxxxxaaasaaaaasssssssssaaaaassaa]8]8]8]88]]]]]8]]8888]]]8]8888]88]8]8]8]888888888888xxxxxxxdddddd[d[[[[[[[[[[[[[[
+]]]zzzz];z6066000600;0600]6]z]00]0]z]0]]0zzz000]]0]00zzz0zz]0]z0]zz]zzz]zz]0;zzzzzzzzzzzzz777zzzzzazaaz7zz77
+]]]]]]]]]]n]]hn]]]]]]]]\]\\]]n]]]][][][]][[[[[[[]666p]]]6z]6]z6zz---;-//z66z/;6z/60;006zzz0z0z6z0z606060z0z6zz00;0006z0z6;z6z;z]zz
+zzzkzzzzzzzzzzkzzzkzzzkzzzzizzziiiiikkkkkkkkkkkkkkkkkkkoooooookkkkoookkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkokkkkookkooxxz]]]]]]]
+r4rrrrrfffrfffffffffffffffffffffffffffffffffffffffrrrfreeeeeeeeeeeeeee
+/;//////////sseeeeeeeeewsssssswwsws3ssswsssssssswwsswwwwws3sssswswwwsssssssssss3sssssssssrrr4rrrrrr
+zzzzzzzzzzzzz/zz/zz//ssszszzzzzzzzzzzzzzzzzzzaass]sszzs//sszs/sssz////sszzzzzssaa//a///]]aaa//]//]]//////s//]/]///a///////////////
+qqqqzqzqzq//////q///////]]/]///////]///z]/zzzz///zzz/zz/zz/zz/z/z/zzzzzzzz////zzz/zz/z//zz//z////z/////zzzzz
+q/qqqqqqq/q////q//q/qqq/qq/qq/q//qz///q/q//q//qq///////a////////////////qzaqqqzqqqqqqqqqqqqqqqqqzqqqqqqaqqqqqqqq/]]qq/qq/q/q/qzqqz
+88888888888888888888k8888866666888q11MQM11Q1Q11Q11qqq]]Q]]]]]]]qq]]qqqqqqq]qqqqqqqqq]qqz]]qq]qqzqq/qzqqqqqq//q/qq///qq/qqq/qqqqqqq
+D0DDD0DDD000S0S0SD0DDDDQDH8888888888888888888888888888888888888888888888888888888888888888\\q\\\\\\\\\\Q\\\\\\\q\f88kk88k8k8888888
+0S00DDDS00SS0DD000000DD0D0DDD0000DDDSDSDDD0DDDDD000DD0D000DD00DDDDD0D00D00D0DDD0D0D00DD00DD0DDDD-DDDDDDDDD--D0D0S00000DDDDD0D0DDD0
+DDDDDDSDSDSDDSDSDDDSDDDDDDDDSSSDDSDDSDDDDDDDDDDDDDDDDSSSDSDDDDDDDSDSDSDDSDSDDDSDSSDD0DD=DDDDDDDD00DDD0D
+333333355SSSSSSSSDDSDSDDDDDSDDDDSDSSDDSDSDSDSDSDSDDDDDDDDDDSSDDDDDSSDDDDDDDSDSSDDDDDDDDDDSDSDDDDDDSDSDDDSDSDSSSDSDDSDSDDSDSDDSDSDD
+QQQQQQQQQQQQQQQQQQQQQQQQQQ1QQQQQQ1QQQQQQQQQQQQAQQQQ11111111Q1QQQQQQQQQQQQQQQQQA1AQQQQQA11A1A11AQA1QAA1A111Q1111111111
+qqqqqq  q q  qq1q1qqqq111q1qq1111q1q1qq1q111qq1q1q11qq1qqqq111q1qq11111qq1q111111Q1111111Q1
+I\              v]]]]] ]]v]v]]]                       8                 ```1111`1`` `1` 1`1 `1  `1 1`1````````1  q     q q        
+JCxXfyHswCTRoeTuUFIBYlPPn[[TAGlySWF\MZAyaza[Bg_RiNlwCtNCeiQEi^N^UmR^k_ocyfel[WzWodXpXCfTdlBQ_bPYHhGWCq
+xGjI]vZQugpodgIeKuHYnebr_UHGkuKLdLCr^PbsIAEIlGpeIPRlE`ucvc[UHTZqbla@TcpBC`x]PaKSFi@xcTNnevrc_h_aLhhF[\iZxAaMVTIIw_l_splKeAJ[EViW[Q
+FIO]EgZWlo]tXcmhgU^nOZbeOIJZzTDA`XxaP_HleC[]z`MmjUpRgbFsTnjelKjoGJlWftdhAGcrBHdctxf_IvDf
+CWqSpLNTlvy@\CZAwKAicwkEtBQgeLqF\Ok`QAROn[E@LaUQZMGu[bXPYmCZHbmViiiNMbGMyqVP\feUojRLQTAyPTxaP\zwPez[Wf\kQS[VyjzsnVOnUHynuySbnnfbCz
+VRjkTzV\Adojjo]sOYqqCjfvbZicypQXbfPEGjlPP\VNYEpgoXpQOU]OMDyWEGCa[H[ELG\iU\EPBrHf\@Tp]GdzIeexTK]ipCUMLRqVmPdNKjfMnHiAvV[XNNLT_JudkH
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeereeeeeeeeeeeeeerreeee77
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee33333333366667768888886888888888888888888888987888888888878888iiiiiiiu
+,ee ,eee,eeee,,e,eeeee,,eeeee e,,e,,.e,eeee,,e,eee,e eeeeee,e,,,eeeeeee.eeee.,,,,,,.rr   .ll l 
+]]r]]]]]]]]]]]]]]]]]]]]]]]]]]33333e3ee3e3e33e33e3e3e3ee3eee3ee3eeeeeeeeeeeeeeee3eee//eeeeeeeeeeeeeeeee.e.ee.ee.e.e.e..ee,e,e,,ee,,
+888889888888888888;8989888888888888888888888888888888808888888808808808808080800880888088808888888888888888888888878788787
+.0 00.     11 ;1010 .0 ;;w     w;;;0;8;80;888;888..88888.. 8 8888888888  00000888888088808808888888800088..8880808..8..8.888088888
+/      /  // /  / /           ] 0]  ]   ] ] ]                             ...0;...0
+//////////////////////////////////////////////////////////////////////////////////////////                  000 00 /  // /////  //
+zzzzzz/00z////zzz0/zzz/0///////z/z//0202000/222202222200z//Q00000/0///////////////////////////////////////////////////////////////
+frrrffffrrffrfffrffffrffffffffffffffffffffqqqq````````q`2222qqq222222q222222222q2222www
+777777744443444444443333322222dd11;rr;r;5rrl4;1166444446l44446llll433333333333333444...4
+qqqqq
+\\\2]]]]]3]33]33]]3333333333333333233333322233333323333333333333333333333333333333333333233333333333333333333333333333333333333333
+xxx x                          xxxxx    x     zz   z z z    z zxxxx             
+dd5545d55d4 dx  dxxxxxxxxssxxsssxxxxxxx  x xxx xd xxxx        xx   x x dxxdxdxxxxxxx
+Q/sssssqqsssqqssssssssqqwwwqqqqqqqsssssssssssssssssssssqsqs]   x x x      z  z  z z  z z    z z       44444   4  4   4            
+][]]77[[7aaa6a[[[[[[/]]][[[[[[00000000/]0//0/0/]00/000000/]/00/]0/]]0]//]]//]//]/////////////////////////// /]/ ///////////////   
+][]]77[[7aaa6a[[[[[[/]]][[[[[[00000000/]0//0/0/]00/000000/]/00/]0/]]0]//]]//]//]/////////////////////////// /]/ /////////
+33332222233223323323332333333333333313333333233254545445AZAAAAAZ6ZZ6ZZAAZ66z87776Zz7aa8/]6]/]/]66/]zz]//6/z6zZzzz7zZZ[]zZZ[]Z7Z[[7
+232232223312323333233332222222232233323333333333333332233333333131222222222222222222
+3131333333313333311113333333333321212222222222222222122122211122322322333322222222221122211111313331222222222232233133232333232323
+////////////////////////131131313131331133113221333131313231311313111113133122111111113111131113133313333333233333113223333///////
+5555555555555555555533333333TT55555..5.5554//////////////...555```````/```222EEEEEEEE/////////////////////////////////////////////
+/////////////////////.././/////////////////////ssaZzQEEEESZZZZSZZZS
+////////////////////////////////////////////////////////////////////////////////////////
+4EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE686676666]66667]]]]]]]]]/////////////////3///////4///////////////////////////////////////
+--35555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555
+/;///;//////////]]----------------------------------------------------------------------------------------------------------------
+qq32q3q3qqq3q33333qq33333333333q3q3qq33q3qq333qqqqqqqqqqqqqqqqq
+`11`````qqqq1qqqqqqq1111111111111111111122qqqq1qq1qq11qq1q1221121qqqqq1q222qqqqq1111111111qq333q3q33qq333q3q33q333q3q3q3333qqq33qq
+``2112`22``21`1``1`1`2```22``2`21`1```21``1`1`1`21`2`2``1``2`222222`222``2`22`222`2222```2`2`22``21`1`
+889999==]][]]]]]]]]]]]]]]][```22````22222`2`2`22222```2`````2`2``2`2``1`112```1``1`````222`2``````2``2222`2`211````2``21`2`2``````
+888QQQQQQQQ8QQ88Q8Q88QQQQ882Q8Q778QQQQ8Q88888888888888888888/8888888888888////88////8/8///88888888888888888888888888888/q888888888
+2Q222Q2Q2QQQQ2QQQQQQQ222222QQQQQ82Q822QQ8QQQ888Q82QQQ2QQ28Q82888Q8QQQQQ888282Q8882QQ8QQQ22228822Q2QQQ
+QQQQQQ42222Q24424/444.44Q5442222222.222424224QQQQQQQQQQQQQQQQQQQQ4Q.Q.QQQQQQQ.QQ2Q42Q44QQ4Q4444Q4Q/QQQ44Q2444Q4QQ2Q4QQQ2QQ22222222
+4 444443443433/3/43//Q/44444//444/4/4///433338.Q..444Q4QQ4QQ4QQQ422Q444QQQQQQQQQ22222QQQQ44QQQ.2.Q4QQ4QQ4QQ.44Q4Q4QQQ4QQ42222222Q4
+------------------------99999-------9999999999999999999999999999999999I9999999999II999II99999I9999999999999I99
+AAAAAAAAAA222AAAAQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqAAAAAAAAAQQA2QA
+]]]]]]]]]=]]\====]]]=]]]]]]]=]=====]]]]]]]]]]]]]]]]]]=]==]\]\]]\]]\]\\]]]]\]
+\]\]]]]===]]]=]==]=]]]==]==]=]=]==]=]=======]=]]]]========\=]]]]]=]=]]]]]]]]]=====]=]=]]=\]\
+]\]\]\] ]]] ]]]]]\]\]\]\]\]\] \]\\]\]b]\]]]]]]]]]]]\]]\\]\   \]\]\]\]\]\]\]\ \]]\\]\] \]\]\]\]\]\]\]] ]]]]]]]]]]]]]]]]]=\]]\]]\]\]
+\\\\\\\]\]\]\]\]\]\] \]\]\]]]] \]\]
+\\\\\\\\\\\                               v v                                                                                     
+-0---0--00000000-----0--0-0000000--------0------0-------   --=-==
+]\\\\\\\\\\\\\\\]\\=\=\\]\=\\=\]]\]]]]]\]\\]]\]\\]\]]]]]]]]]]]]]\]]]\]]]]]]]]\\\
+\\\\\\\\\\\\\\\\\\\\\\]\\\\\]\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\=\\\\\\\\\\\\
+444444444444444444444\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\]\\\\]\\]\]\\\\\\\\\\\\]\\\\\\\\\\\\\\\\\\\
+22221111222222212111111111111111111111111111111111]]]]]]]]]]]99-4zz666
+---------------999-0--------9---------------------------------------------------------0-
+ggggaggaaaaaaa   aa  gaga                                         
+=====================``                                 222222=================================================]]]]]]=]]]]]]]]]]]]
+22222222112222112112212222222222222222222``q``444444444444444444444444444
+.       pP]]1222222222222222222222222222222222222222222222222222222222212222222222222222222222222222122                           
+WWXXXXXXXXXXXXXXXDXXXXXXJJHHNHN7YNYYYY7777Y7744444222222]]`````````2
+]][[][][][[][[[[[[]][[[]][[]]''''''''''''''']']'/'//'//'//'//////////////WWWWWWWWWWWWWWWWWWWWWXXXXXXXXXXXXXXXXXXXCCCCWCCCCCCCCCCCC
+KKKKKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..LLLLLLLLLLLLLLL,L,L,L,LLL,LLL,LKKKKKKKKKKKKK,,,,,,,,,,,,,,,,,,LLL
+RRYNBRRYYYRRRYYBRRBRRRRRBRHRRRHHHHHRRRRURURRRRRRURUBRRRRRRRRRRUUURUUUURRRRRUUUUURUUUUURRRRRRRRRRRBJBBRBB
+WFFFWWFWWFWWXFFFFFFFWFWWFFWWFWFFFWFFWFWFWWXFFWFFWWFWFFWFWFWFWFWWFFWWWDDWWWRRRTTRRTTTTRRTRRCRTRTRCRRRCRTCTCRCCCCCTCRCRCCRRRRRRCTTTB
+AAAAAZZZZZZZZAAAAAAAAAAAAAAAAAAAAZRRRWWWWRRWWWWFFFFFFFFFFFFFFFFFFFFFFFFFFFFFXFFFWFFFFFFFFFFFFFFFWFFFWFWFFFFFFFFFFFFWXWWFWWWFFWWFFF
+ddZDDDDDDDDDDDDDDDDDSSSSRRRRRRRRRRRRRRR/JJJJJJJFFFFFFFFFFFFFFFCCFFCVFFFFFFFFFFFFFFFFVVCVCVCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCAAAA
+9kkkkktbadaaaaaaaaaadaddaaadaaaazzaaddaadaadadddadaaaaaaaaaaaaaaaaazdaaaddss
+l0l0lll00l0lllolopp------[[[[[[pp[[p[[[[[[hhhhhhhhhhhhhhhhhhhhhhhhhhihuhuuiiiigggggggggggggggbbbgggbbbggggbggggbgbgggggggytytyyttt
+//;llllllli/lilll/lilil/lilill/l/iiiiliiiliililililii9lloololllooooooooloololl0lololllool0ool00loo0llollll0l0olollllllol0looolollo
+iiiiikiikikiiiikiiiikiiiiikiikiiikik9iiiikkikikkiiiiiiiii9i9iiii9iiiiii9pp/pppp
+jjiimiimjjjjimjjjiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii8888kkkujjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkiiiiiiiiiiiiiiiii
+jjjjjjjjjjjjjjjjjjjjjmjjjjjjjjnjmmmjmjjmmjjjmmjmmmjjmmmmmmmjjjjmjjmjjjmmmjjjmmmmmmmjjjjimjjjjjjj
+[;[;[[[[['''[['['['['['[[[[[[[['[[[[[['///kkkjjjjnjjjjjjjjjjjjjjjjjjjnjjjjjjjjjjjnjjjjjjnnjjjjjjjijjjjjjijjijjjijijjiiijiijjjjjjjj
+-555555f-5[-[-[-5f[-[-5[f--------f-[-5ff5-555555----[[[d-ddd[d-dd-[d[d[ddedddddddddd[sdd3[ffffffdffffffff[[[;[;
+n==n==]jj=jj=jj]jnjjjj=j=jn===n=jj==jj====j=jn=j=jjj===j=-=-j==jj=---tt---tr=-=r-=f=-fff-f=--f-ff--ffffff-ff--t--ffff-t-----55-5-5
+aaw\wAWW\WW\\CCCCCC=C=C=C====]CC====CC=CC====CCC=C===CCCC=CC==================]===]=]=]===iiiiiiiiijiiiiiii=iii==iii=i=iiii=iijii=
+88         t   h   t ttth  hh thhhyyyh       h yy y    gg g    ggg   g g g   gg  ghg  ghggg h  h gggrrrrrfg\
+r/r///////fllrrrr.//f//./.././/fff;/'ff'/fff;;/f//fff/,,,,,,fffffffff;fff;f;fffff-g /               i                     iii i  i
+\a33333[3[3[[[[][cccc/';//'/'r';'pp/'/p/p/p/p/pppp/g///llrllrllr/l/grgrg//lr/l//rlr/
+c]5]5]]]]]]]]cc]c]wcw]a==]4=]4=4]ww=4=w4w4==4=]4w=]=4]=44=a=a=]====4==]=]]=]]4=]4==4=]4=a==4ww44===]4==
+CCJJCMMMCCCMJJMCCJJCMCJMCCJCJCJCCCUCCCUCUCCCCYYYCCCYYCCYCYCCCC]CCCYCCCCC]CCC]]]]]C]C]]CC]C]CCCCCC]CCc]ccC]C]c]yyCcy]yC]]cyc]]CC]c]
+0A00OAB-B0A-AB-BA0-ABB-AB-A-A-B-A-BA-A--ABABB-PB--AAAABAAPAvcCVvC]cC]C]cCc]]Ccc]c]c]]CCCCc]cCccCCCCCC//CCCCCCC.CCCCCCCCCCCCCCJJMCM
+AAYYAA]A]]]A]]A]=]=]AAY]YA]AYA00A0PP0A0A0A0PAOYYHT000AAYYAYTAAT0A0T0OYTYT-----T--T---A-A
+IAIAIIA9AAIIAAAUAUUUAAUAUY;AY;A;AA;A;AA;;A;UAUUAAUIAAUI;U;AAAA'AAAAAAAAAAIAAAA=A=AAI=A=AIII=IAIAI=I=A\A==IIAI=AIA=AAA==A==AA=JJA=J
+IAIAIIA9AAIIAAAUAUUUAAUAUY;AY;A;AA;A;AA;;A;UAUUAAUIAAUI;U;AAAA'AAAAAAAAAAIAAAA=A=AAI=A=AIII=IAIAI=I=A\A==IIAI=AIA=AAA==A==A
+1=]86==86]8=]8686-68-6886=86=]888=]=]==-==-8=]=]WA3]WA3A8-8==]-8===]====-=8]=]=]AA=A=A8=-=-=]-]AA=]A=]AAAA=]AA=A=A=99AAA==9A99A=I9
+QQ900=QQQ=Q=8==9Q888==]]]Y6Y6YY6=Y]Q=]QY=]-]-YYYY-===]-W=-]=-]=]-]=-13=-=1=13=-]Y1Y61Y]-]--]1121=1Y=Y=--]8=-8=-]8==-88]6-=]8=]-818
+WAWW9WWWWWWAW00WAWA000W0W00W0WWAWA000W0WAA090WAWA9090WAW0A900W0W00WWA0WAW09WWA0WAWAR90A0WAWWWAWW0W0WWAWWWWAW
+AKKSSAUOAUOSAA8O8O88S88ISIIIIISIIIIWIWIIAWWIWWWIIWIIWIWAIIIARAIWIWIWAIIWWWIIWIII
+=S=S,SSS=,S,S=,,,S,S,,S,S,=,S=SSIISIJS=8S8==8SSS88S88====88SSSSUSSJJ]J]HSASASASASASASLSARLLLARRRRLRRALOOOAO/AO//A//OAA./AASASSKKSK
+55C5555C/C'5'5/5['55[['CCCCC[C5[5CCCCC;R5;5R5CCCCP06006000CCCCCCC,RFRRRFRFF]S-S-S-]]--S-S--S-SSSSSSSSSSSSSSS.SSS.S..SS.SSS]SSS===S
+rurnrR4R4RNR4R4R4rRUR4UNR4R4UR4RN4R4RR4NRR45555C4C5544C5C5P5CPC5PC5C4C544555C4/O/55LLL55L,C5LLLL55K5CK5K5CCCCCCC5CCCCICC5KKK5KCC55
+5i4i5i46i555ii5i46554i54545654545454546454654/955/55=645[4=[[454654545=4-55-[-[5046-545454546
+y2ccc31c2323212313c23121323231223122231t2323312232322323t232
+rrcr44cc-----rrrrrrrrrrr99r9-rrrrrrr9rrrrrrrrr9rrr9rrrr9rr4rrrrrriiriirzrruutctuuuuujjjcjcccurccccccuccccycccccccckc2c232313ycy23c
+ayyayy2hyyyyyyyyyyhyYyyyyhYYyYYhYYYyYyYYyYyYyYyyyyyYYHYHYHYYYAYYAAAYAAYYAYYYYAYYAYAAYHYH6666WAYA6AYAA55555555555555555555ccc5ccccc
+YYYYYYYYYJJYYYYYYYHYHYHHHYHHHHHHHHHHHHYYYYYYYYYHHYHYHHYHYHYHYHHYHYHYHYYHYHYHYYHHYYYHYYHYYYYYYYYYY
+77AWWZJZ7JJHJHJYJYJYYJYyyjyyjjywwyjyyjyyjjycyyyyyyyyyyyyyyjYyyYYJJYYYYYYYYYYYYYYYYYYYYYYYYYJYYYYYYYYJJYYJYYYYJYYJYYYYYYJYYYYYYYYYY
+yfgy9gggiigggggygygg99999c9ccc9cc9ccc9c9c9cccccc9999ffff9dd99d9 9d9 9d999d99d0/iU77jjJ
+c9ccrrrrrcrrcrcc9rcrc9r9r9rrrrrrrrrrp9ffffffrfrfrfrrfrrfrrfrf5f5f5f5ffffff5555555555556/'w//9piiipyyyy[y/]ygyyy=ygyy-----;yygfygyg
+c9c9c999cccg9gc999999c9999999v9vvvvvv9999999g999999cgggggcggggfffffc====c====g99gg9rrrr9rrrrrrrrrrrrrcrrrcrcr9r9crcrcrcrrrcrcrccrr
+g9999999c999gg9gg99g99igigiigiig99g999999p9g99999999cccc9c9cccccccc9c99c99cc99c9c99rrr99rrc99r9cr9rrcrrr-------00099gg9c9c999c999c
+IIGIIIIIIGCIJJCJJJJJJG,GUGGGGGGG5BHHh1HHHH1HHQHhhhhhhhh999999iiiiiiiiiiggggigiiiigigggigiiiiiigigggiiiigiiiiig99999999999999999999
+IIIIIIIIILIIIIIIIIILIIIIIIIIIIIIIILJJJJJJJJJJJJJJJJJJJJJJJJJJIIII99999999999K99K999KKKKK9KK999K9K9K9K9K9K9K9K9K9KKKKK9K9K9/////III
+R5RRR5R5ZRR;55Z55ZZZZ55R5R5R99RRRRRZZ555R55R995R9RRI,====--=-=-=-===IIIIIIIIIIIIIIIII
+HHNNNHNHNNNNYYYNNNYYYYYYYYYYYNYNYYYRRR5R5R5R5RR]RR55RR5R55R5555R5R5R5R5R5R5RRR5R5R/5/R/5RR/5R5R;5R5RRRR5RRR5RR5R5R5RRR5R5R5RRR5RR5
+zzJIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIHHHHHHHHNHNHNHHHNHHNNHNHNHNHNHUUUUUUUUUUUUUUUUUUUUUUUUUUIIIIIIIIIIHHHHHHHNHNNNNHHNNHHNNHNNHNH
+zjjjzmjjzjzjzzzmmzmzzmmzzzmzzmzzmmjmmzjjmzjjmzzjjjmmjzjjjJJjjJjjjjjjjjJMmJjjmmjjjjJmJjmmmjjjjjmjjmmjjzmzzzjzjjjzzzz,,
+W;zzzsss9ss99k9kkskjzjkjkzkkkjkkkjkjjjjjjjjjjajjjjjjjjjjjjjjjjjjjjzzjjjzjjjzjzjzjjzzzzzzjzzjzzjzjzzzjjzzjzzzzjzzjzjzzzjzjzzzjjzjzj
+WWWWW6W66WW6WWW6W6W6AWWWW26W6W6W6WAWWWWW2WW6W2A6WA26WWW//WWWWWWW///WW/W/WA/W/W/WA/WWWWA22WWW2AWW2AWWAAA2WWW
+W6W6WWWW22666WWW6W6W2626WWWW22666WW6WW6W6W6W6W66WWWWAA2WW6W6WWW6W66WWWA266WWWWW6A6WWWWW6AAAAAAAA6AA6AAA66WWWW6WWWWW6WWWW66W6W6WWAW
+66666q665q5166666166666qqq61666616616116111666166WWWWWW66W6666WWWWWWA6WWAWA2266WWWWA626W6W6WW6WA66WWWWWW66W6WWSSS6W6WW6WW6W66WWWWW
+,,,,5,,555,,5,,,,4,44,,,5555,5,5,,5,,,5,,,,,,,C,c,JJjjjSRrrrjJrr,rRrRRRR5555,m5,5C,M,MCcC,CcccC,ccjjUu,,,R,DdvddDVDVCVV,CV
+nnnXnxnNXXNNnXmNNNNMMMmmXnXXNnNZJJjJjjJJJJJJJjJJJjjJjJsjjjJjjjjJJAjjAajjJJAajjJJfFJfFjjwjwjJwjjjj4j444jJJjJj44,44csS,,,,,,,,,,,5,,
+QFFFFFHFQHHFQRHRHRHQHHRRRHRRRRRHRR3RRRRRYQYQQQQCQHHHQQQHCHCHCHHQCHCCCHCQHQHCCHCQHQCQHCQCCCCQQHHHCCCCHHCCHCHHHH
+J1J2JJRJ2RRJJJ1JRJJRJR1JRJ1RJJJRJRJJJJJJJJJ1JJJJWJ1D1D1JJ1J11J21H``HHHFF`FHRRHRHRHHRRH`H`RHRHRRRHRRHHRHHRRRHH`R`HRRRRRRQRRRRHRHHFF
+8i488ii884844II8I38I38288832888I3131IIII8I8IIIIIIA8IQI33III3IS8ISSISSS3SSIISISISIIII22I28I222AI8AI888AIAIAIII8I8IS818I8RIR8IIRRRI1
+8i488ii884844II8I38I38288832888I3131IIII8I8IIIIIIA8IQI33III3IS8ISSISSS3SSIISISISIIII22I28I222AI8AI888AIAIAIII8I8IS8
+-4-P-4-4P-PP--P-P-444444A444;4A4;444448484888aii8ai4i448i4i8i448i8i48i8iww8iw8i8i8i48i8i
+]]]]]]]]3]]32]]32]]]22]22]]32]3]2]]33322]]3]3]]]33]3]]]33[3--3[-33-3333'3'33'33'333''''''44'44424444-O-4-4---4O4-4O4O-4-O4-44-4-P-
+-=-=--33333=-=-=---3===33]]3]3]33]]3]]]]3]]33]3333333]]333W3[3333[[3[3[3]]]]]33]]33]3]]]]]3]33]]33]]]3]3]]]]]33]33]]33]]3]]]]]]]]3
+22[][]22[[2[2[2[-[-[[-[-2][2-2-[[-[-2[-2[-[-[22[-[[QW-[-[-[-[-[-2222=-=-=2==2=2=
+-[-[-[-[-[[[[2[2[[[22[2[]222[2[]]2]22[-22]22[[[2[[[2[[2[[22[][2[[[[][]]222[2[[2]]2[W[]W[
+1[1[1[1]1[]1[1][][[-2[-[3[[-[]-3[-33[-332-23[-[-223[-2[-3[2-3-[2[2-[-22[2-[3-[-[-33[[3[-33[-2[[]2[3]2[2[233-]]2223[2[]2223[[[-[2[3
+22[[[223[-[23[-2[-222[2[3[-[-2[-2[-[-3[-[-22[-2[-222[-[-[-[[2[2[2[22]]-]]-[][[]2]222[][]2[2][]]2222[]][][2[22[-[-[-2[[22[-[-2[-2[[
+WWUWWUWWWWQQQQWWWWWWWWWWWWWWWQWWWWWWWWWWWWWWWW=WWWWWW=WWW=WWW-22-2-2-23-22-2323-22-2-22-2---2-2--222--233[-[-]2]22[[2[2[-[22[[]-22
+3WWWIIIWWWIIIWWWIW3WIIWIWWWKWWWWWUUWWWWWWWWWWWWUWWWWUWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWUWWWWWUWWWWWUUWWWWWWWWW
+WIKIWIWWIIWIWIIWIWIWIWIIIWIWWWWKIWWWWWWIWIWWWWIIIWWWWWW2IWIIWIKWIWIW2WIKWWIKWWWWWK9 IIWW WWWWWWWIIIIKKIIWIWIIIWWWKWW33IIIWIW3IWIWK
+Q8QQ8QBBQB888QQBBQF88888888Q88QQKQQQ88QQ88QB8QB8BIIIIIIBIKWWWWBWBWWWWWWWWWIKKWWWIWIWWIWWWIWWWIWIWKFFFICIWWWWIWIWWWWWIIWIWWIKKWWWII
+78QQUUUQQUQQQ88`28III888`88II2III``III8I88888I8``8`I8III888QQQQQQQQ2Q29Q2Q2Q2988QQ8Q8QQQ8888QQQ2QQ828QQ88QQ888QQQQQQQQQQQ8QQQ8QQQQ
+RRRRR44444F4F4444444444444W444444W[W44444W44'''4F''''F4444TR2222222OOO22II22O2O2222222I22OO22O2OOOO--O
+HGGGGGGGYYGGGGGGGGBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB344444FFFAACCCCVCVCFRRRRRRRUUUUUUUUUUUUUUUUUUUUUUUIIIIIJJ/,3RRRRRRRR
+AAnaaAaAANANAaNaajjjjjjJAAaAkkkkkakKKjIIAijjjjJjJAjajaamlmKAAiii00008
+wwwqqakaakkiikkkkwwwawakkiwaikawkawkaakkiaaaaammwmmmwmwmmmsmaaaaaaaMAAamaaaJjjjjjaaaaaaAAJAJJAaJAaJJJJJJJAJAjjjaajaaAjjaAannanNAaA
+wwwwwwwnwnwwwwwawwwwwllwwwawwwwwa,,w,,,w,www,,w,,k,k,,a,a,w,,,wwwwawaww,w,wwwwwawwwowwwowoawokwwwwkwkwwwwwoowooakkokwwiowiaoowowww
+/22//22222'2222222/2222/22/'/''22'22'333/2222222//222.22qqqqqqqqq222..2....22.2222222222222,,,,,,,,,,,q,,,k,a/,iii
+cccccc``ffff/ff/`f``/fff`f//f/ff`ffff[[ff[[f[[`[``[[/[g1g[[2cccbbcccbb2bbbb2bb2222n22g22g2g2gggggo222222ii222ii22i2i2i222222222//2
+RCCCCCC=CDRRRRPppdxxDDXDXfrr/qqqqqqqqz///////////f/vv//vvvfvvfv
+aaaaA666Q6666AA555555555F55R5555RAaa5aaaraarararfararfarrrfarrrfarrrrrrr1r111h66Qq66qQ6H6H6H66F111tt111111TTTatTtaqRRRRRRRRRRRRRRR
+II11Iiii1IIIIIOIIOOOAooooooooOO,OOO,,AOOPPPPP------------AIAIIIIbbbgbgbbgbggggGGGBGGgggggGgGG
+IIIIIIIIIIIIIIIIIIIIIIIIKKKKKKKKKKKKKKKKKKKKKNKNKKKKNNKKkKKKKKKNkkkkkkkkKkkkkkKKKkKkKKkkkk888888JJjjjjjjjujJJjUUu7uaUuuUJ8q881111I
+999C999LL9L9LCRRC99099CLYYYYYYYYYYYYYYYYYYNYYYYYYYYYYYNNNNNNNNJNJJNJNJ\JNNNJJN\IIIIIII
+]f]]ffff]]f]ff2]]f]ff]fff]]f22f]2f]fff]f2[2][]2]2]2]2]fff22]f2f2]2ff]2f2]fff2]]]]A]]]SSSSS0SSCCCCCCCCCCCLCCCWRCWICWCWCCC9C9C99L999
+ccggggogigiogbbb-/ppppppp/p/;oo,mmmmmiiyyyyyyyyyyyyyyyyyyyyyyyyyytttiiiiiiiioopooooOOOOooo,0000999,AAFFFFAFAFAFFAFF\F=F=\AAAFff-ff
+mmmmmmmm,cm,cmm,cmm,mmmmimmmimm,i,imm,,m,rrrrpppppoiiikkiKKKKQKKKKKKKkk`kkwki,,,28fffffffffffffffff
+0OOO0OOO0OO0O0OO/00O0O0OOOOOOOO000O00OOOOOIIII0U8OIIIIIIOIIO/88889888998[[[O00999999999c9ccccicik9iiciccikiicccciiccccccciiikiiiii
+0OOO0OOO0OO0O0OO/00O0O0OOOOOOOO000O00OOOOOIIII0U8OIIIIIIOIIO/88889888998[[[O00999999999c9ccccicik9iiciccik
+,/,/,/R,/R/R/R,R,///R//,R/R/R/R/R,//RRRRLLRRLRRW,//,R/,/R,/,,/,/,/,/RRRR,/,/4W/]IIIOOIIIIIIII99OO99OO9999999999I999I00000000OOOOOO
+[[,AZZZZZZZZZ;;AZZZAAZAAZA;A;;ARX;[RRXRRRRRR'RRR;RR-[[R[R[[R[4---[RR-R-R,/,/,/,/,/,//2,/2,/22,//,/,////,/,,//,//CC,//,//RR,R/,//RR
+q2wq222q==q=888888-----------==---====-==-=-=====-=--/,AAAAAAAAARRRRRRRRRRRRRRRRRRRRRRRRRRRCRRRRRFFRFFRFFRqCQ[[[[][-[[-[-[[[[[[[[[
+[[[[[[[]]]============/////`b;bNN;;;/rRCCCR=\\Rc]]]rrrr\\1c\gg\g\g\\=====1=1==1111111wq
+==============-==-=-=-=-=-=-=-=-=-=-=-=-=-CC=-=C-=C=-=-=-C=-=-CCC[[C[-CC[---C--==C=[C[C[=C[C[C[CCCCCC\\C\\===C=CCC==C=CCC=CCC=C===
+00CC0CFF0CC0000-C0C0-CC000C-V-00C0-C000-X0X0XX0-0X00-C000CCCCF000-CC0CC-C-CCCCCCCPPPPCFPPCFPFXPCFXPCFPCFXPPCFCPFPPPCCPP
+C0C0C0CCC00C0C-CBBCC00C0-00-C0-B00-0CB0-CCC000C0C0-CC3C000-00C0C030G0G0-GG000-00-0000X0X00C000CCC000C0
+cc0fc9-0009-cc0c0cf0c0c0fc0f0c00cf009r000rf00cf0cr00cfyr000yr0c-c0c00-ff-vf0000x00000000FFF0000000C0GG0G00AGA000000000000000000000
+/v/vvv/vvv/v/fvfvvfgvvfvfvfvfvfvfvfvflvfvfvf-v-fvfvvfvf-vfvfvfv0v00x009009c0c009c0c0-909cfc00cf0cf0000-0-92ccfcf0c0c0f0-9cfcc0c00c
+,,w,w,,w,,,,,w,,,w,,w,,,w/,,,,,,,,,,////////''/'/'/'w//w/w'//'/'//'/////////////////////d////////////////////////////////ffcc////v
+1XX11X/X1//1/WW//1X/1X/W11W1/1/1X111W1W1X122X2XL=2/1111w1,1,1,,,,,,,,,,,a,,/aq,a,lwwawwa,,,,w,a,,,,,,zzz,x,,,l
+LLZ/LLDL/ZL/L/Z/Z/ZZLZZDDZ.Z.ZZ.Z../////Z/ZZ/.Z/Z/./ZZ///////////////9/=/=/=/=/9/9W=//W8//W8Z8/88W/W8WW//=/22X2/2X/2X/X22X=/=1111X
+Z/Z//Z//Z//Z///Z/ZZ/Z/ZZ/Z/Z/Z//ZZYZYZ/Z//ZZZZ/ZZ//Z///ZZ/Z/Z////Z/////Z//ZZ//ZZZZ///ZZ/Z//Z//ZS////Z/ZZZZZ/JZZ/J//L/L/JL/ZJL/ZJ/Z
+Y;Y;WWWW;;WW;;W;YW;YW;WWW;W;W;W;;;WWAW;;QTQTQQT;;QQTQQQQQ/Q////Q/Q/2W2WW2////A/AW/A/AAWAWA////X/XX///XXXX//XX/X/X///CC//XX/XD/DDZZ
+5ZZ;A5;55ZA;ZA;555Z5AZA;5555Z5ZAA[55;A;55Z5Z;;55;;5;55X;X5Z;;;;ZZZ;[ZZ;;5;[ZZ;AZA5ZZZAZA;;;;;;[TXXXXT;;T;;SSWWWW;;;'WWAWW;;W;WWWWW
+VVW;Q;W33QC;WCWC3QVWWWWW;W3W[WWW3WQ3W3QW3W;[V[WSW3;WF3;;W[3;;[;;;;;;;SX;XXX;X;XS;XSXSXS;;;;;5;5X;5;5;DD5;D;D;5;;;;5;;5ZZ5;ZA5ZZZZZ
+WWWWHWH;WWH;WHWWHHWH;HWHWWHWWWWWWWWW;;WWWWWHH;HH.33333;;WWQWWWWQ3QWWWWWW3Q3W3W3WWWWWWWYWWW3Q;W;W3Q;W3W3Q;;Q3;;;;;WWWWWVWVW3QV;VVW3
+CFCY;;;CFCYFC;;;C;;A;CAAFCYF;YCC;FC;FCFCF;;;FWFYF;W;WYWWFCWYY;;;;A;;FFFFC;FFFYF;Y;;;RWRRWWRWWRRWWWWW;;WWWWWWWW.WWW;;;;H;HWWWWHWH;;
+6]IIIIIIIII[6'76'6'U6U'UU8UUU''U[[UU[[UUU[UUU[[[UU[[[U6U6[[66U[[[[U[UUUU[U[UIUU[FF[UUFFUUFU[[FFFFFFFFUF;F;/UFU;;U;F;;F;U;F;UCF;Y;C
+rfzr/5CCzCCC/c/c6/c/cc//Cc,,,JjjHHhHN]rddSR''r===,,,,,,,ttt,,,,,,,,,y,,,,,,,,,,,8,8Y,,,Y,,,,,8,88,,8Y,,8Y,YRR,R,R,,r
+[[5['=5'='['['['['['[5'5['['[['['['['['[''RC[R'RR[R'=CC[[RR;FRFR;RRRFFFFFRRRFFzrrz5555rRr55Zr5r5r5rzrRRZRR/RRFRFFRFRFFRFf//r/ffx/r
+[65c5[C=5cC[C5[6[55[[5[5[65=[565[65[[5565[5[5[5[5'55u65[6[u'['u['65[5'['554555'5/''N/'5555--5-=5-5-=555--55-555[[[[=[=[=[=[['[[[[5
+\\\\rrrrrrfffff\ffffff\cccxr=crrRRRRCRCCCRCRRCRRCRRRRCCCc555]]]66c5r65RC]5]55cr]]crrccC555555C5cC5[5C[5[5Cc5[C6C6[5c[c5c5[65[[55[c
+6'66''6A66''66G'6G6G6'6666;6;;;;;00RR-RRR-------3000r00zrr000-r00000-r00rr0rrrr0fffff=--fffffrrrrr0-rrfrrfrrrfr
+8-W8W8W-8--W-------,,-,W[[[,[,[6[[[WW66W6WZ776Y;Y;;Y;;;;;;V;;Z;;;;;;7;;;;;7;;;;;;;C;C;;;;;;;;;;;;;;W;;[[[[G[[[[[1G[[[[B[[[[[[[[[6G
+8-W8W8W-8--W-------,,-,W[[[,[,[6[[[WW66W6WZ776Y;Y;;Y;;;;;;V;;Z;;;;;;7;;;;;7;;;;;;;C;C;;;;;;;;;;;;;;W;;[[[[G[[[[[1G[[[[B[[[[[[[[[
+=]]]]===]=====a=a==========================W=W=W=]=]=]=====]==========W=W=W===]=]W=]==]===]=]=W]=]==]]=WWW]=]W=W=]=W===]W=]WWW-W--
+/5//z//zZ0/5/55//5555a59535//55/p55/0p5p35a==--\=--======-\2awawwwwwrwrar
+]4]44]]hbh4=4=4]4h]4]h4g]]44444]44]h4]4'4h4n44444444445444534545==454=5=4====44=4=z4Z4=Z4]5]44445===z4Z4==44/355==/35/==/53/5/335/
+4I5IIIIiI6Ii5II55I885555I55658ib=]=]R=]R]=]fffrFfhfRHffffffFRFHRHRhhhfhfffhhV4vvvVNvh]4]]]'H4]4H4]Hh44]4]44]]b4]]Uubhh]b]]4h44444b
+dwfwdfwdwfwfddfffFSfdFWFFFWDFfFDF8WWwwWWWW4W444ATFRRRRRrrrtRo,ttRRkktkTKtK/k/k/;/;/jjjjJJJM./Jj/4J4//J4/j./44iH4II4/4III/4/i4//4i4
+dwlwxwxwl4wdwln44n4n44nlllnrrl4llldnrndo4dwrnxdnxxxddxdzxdzdxxxxd4x4dxx4d444cddcdccdcdcdsaw33ww3sw3sw30w3w3ssssswfffwdwdfdwfwdwfdf
+aw4aoa4w4naanwanw4aw4noa4na4na4w4swnsww;4;044nx4wn4sx44xzxszsz44ns4szx4nsnsws4s4s44n4wwnwx4nwdwwwxwnwwwnlwdnlwxnnwxdwwxwwwwdnwlndw
+JIIII=IIIIIIII24AAAAAAATAAAAAWAAAAAWAAAWAAAAA66xxzxxxxxxxxxjxxjj32200joj0444044oj44jo04j4oj4o44o4J4J4O4j4oo433o4444aa44a4aoawnawn4
+w`ww`ff0fgcgggrrrgr/g0/grgg/g19/gr9grgrg=rg=rrr1r9DDD880Ssssss0D1IIIIIIISSSS1S1s18s1s1ssssQS8sS889is9
+155111559551555t5T5t1aa5TA5AA5ATAAAa5a5a5taA-5T-AA-555QTQQT/[-/6W6A`6WW`6`TW`6WW6`0T`TW0`WW5`5T````WW`W`3WW111W11W3W331`1`1w0w1`/1
+SSSSSPSSSPSSSSSSSSSSPPaAFAaapapfaPAaPAaapppa-aqA0AQAHAAAq0qqqqO0OF0Qq0QO0qqO0QQOQO09Q90q0qQ00q55qqQ55qQ55Q55595555ttt55T5TT55T5T55
+5055655Z5556Z5V655V565,6565,5,,,P,55565665,65655;5AaAaAQaA9a9aAi-SSLSPPPPSSSSZPPX
+3.C223283.8C2238822C8382C382832323C2323;CCC/111111C1111C1C111111`CCCC1CCCCC1CCHCCCLCC11CCCCCWC1-1-----SS2S2SSSSXX555XX55XV55055505
+8WW888.88;8.8888886wwww84e8687E34377ES776.E7E7EEe77.7EeE7A77767''';X;.'21X221727722737232232232CC2C1377;23;713C2232C3C7C2 237CC232
+w;288ww828ww'8'.'886'22;''..w86222w22's;s7'.S.'6'.6S;'7'6';S'6S'7S7S'.6S76s''SS6SSSS6;6;\S;S;S26;;\6SS2;BSBS22BS67666\66Z;Z6C;C6C'
+80A98A9AAAIWIAW.W\SWSI8IS..SWW88W\8WWSSWSWSWSWSWSWSs===866686=3883738378==3=86=83w8323232868688863686868326833286386;8386;3;8;ww2;
+9jj8392328j9j83938j398323.380833083030880229808298.98892.3.8888aa.a.oaao8a.20a0;aa080;a0.a0a;a900a9a0a;;9aa98aa8a8;8a28a8A.A;8a;AA
+9jj8392328j9j83938j398323.380833083030880229808298.98892.3.8888aa.a.oaao8a.20a0;aa080;a0.a0a;a900a9a0a;;9a
+,992,29,89299,,,,2,992,.,.299,2,929,289,.829892.922299229,,,89,,,,9,9,,999e99j9j99jj9898cjj89cj898999232393392j39229329j893229j998
+aw,wa99wa,89,w,w898ww3w93wa89m8m99s9a,w,92,,,9ww,,w28,8,,8w9ww8w9ww,8,9,,8,,s,,8888,99,,,89,89,,9,8,9,9.89.88,989,,,88989,989,.338
+aw,wa99wa,89,w,w898ww3w93wa89m8m99s9a,w,92,,,9ww,,w28,8,,8w9ww8w9ww,8,9,,8,,s,,8888,99,,,89,89,,9,8,9,9.89.88,989,,,88989,
+-d4=44444sxS4X44X44s4sss4s4sxthHTtHHH--=-=-=-t-=T-=ht-h-=ht-=-=t-,,,t--=h-h-=,---,-,]-],,,,-77,y77,7,y7-y7,-y7,,,,-,--,]]],-waw,,w
+=-=-=-zz=-=-=====-2=F=FS=-22S=-S=Ss=dd-==ssS==-==ssd=2s=s==-sd=sd=-ssd--Ss==-=-ss=-=-=-=-=-=-=-=-=-=-=-=-=-=SD4=-sd4=-4==4S4=S-s4=
+d]]\]dfdfff-f0-0F0-DD0-D0-0D-D0-9-0-90-i99i-Zz0-9-09-z0-OIZZzzz
+IO434O3OIOO4I4OI434IO434O3I4I3443IO43I43I43OO4IOOIIOOOI,,,FFRRRFRFRRFRFRIssSKSKSDkSkkiSSIIIIskkSKKskskKSkiksSsSIksSFKIkdDDii9di9ii
+-/AX-//-A/-A//--/-///-/-P-P-/P-P-P---P--------/---6-P6-6-P----P-P-P------6--P---P---NP---N-P----P-NP-NP--OOOO777OI3OOO434O34IO3I43
+;'2;2;21;;1;;;``111'1A\\-JW--W---CA---C----------AAXA--AX-----X-X-AX-XA
+=0-0=PWWWW-=w-w=0-W=0-=0P--W=WWWWWWI88I8I822221cccxxxxxfffffffc1ccccfcfccFCCFCFCFCCcfffff`;;/;11;;;;;;33;39ccc;cc3'ccc;c;c;c;;c'c'
+33333'3''[['[-[---3=\=\[\g[\\[``71771787=[7=717=1[[==[777=[27=2=27=[2=2=[2=[22=g2[[22832372=32388[32\287\742\\\2\2\24==34WW-0=VWQ-
+ABBAABBBABAAAA]G]]]]]]]]]]]BBB]'09999999n=n=n==nnn--nnn00nnnpnzzzzxzzzz
+P-66P6p6P6000gr0tRR00RrR0rgR[R[bBrbRbrrBRBRrbR\r==bBbBbrbrBBrr0---N-3-3N3N-N3--3[[33333333333N333BBBAB]A]AAA]AA]]A]]]]]A]AAAAABAAA
+cfccfccfcccfccfccc;c;c;ccc;;c;c;cccccc7c;cccc8cccc6c6cccc66ccf6cc6-=====66=6==555555=\\5\55\5//\[=[[=[[[-[[5[[555[[[-995oI66P6-56p
+CC;;//C;/8C8;/C/CFCCF/8CFCFC/CC/CC;;C/8///BHJ111SSSSS\=\\\\\\\--------------------0-000000-000OXO000O
+rCRfIJ]============f-=f-=-=f-f=-==-=-=-=-==-=-=-==-=-=-==-t======bbcfwdjujujjujjjjJJJJJJUJJJJJJJJJUJJjJJjCCFCFCFCCCCCC8CCC8CCCCCCC
+rCRfIJ]============f-=f-=-=f-f=-==-=-=-=-==-=-=-==-=-=-==-t======bbcfwdjujujjujjjjJJJJJJUJJJJJJJJJUJJjJJjCCFCFCFCCCCCC8CCC8C
+=XW=WW=C==CC=C=CW==C===WCKZKKKKKK///K/Kaaaaaaaa''wsw'w[[sws[s[s['['s''''''s[[''ssssww////w//SWSWws//////C/CCVcCcVcVcvrcvVrCVccvcCc
+=-=-=-----==--=-----===============================\========================TT=TTJ=====WFMWMFWFWFW,,W,=,==W,W===C=C=C==W=C=WW=C=WC
+0000-000000000000000000000000-0000000-------------0--------0--0-------
+==\h=h=z===jhz===h1====11hjhj==jh\===j==h==========\\\\\\\J\\J\\\\\\\\\2\2222222W222W2W\\2\\\\\\\\\22\\\\\2\23\\00000000000-00-000
+55665[56566565555]555555'55--]---v--]v--]-=======\=\ =\== =====\b==b==b=
+AW/65655555655555]]5]55]5]]5]5]556565]]56555565]556565]]65]5]555555555555565655555555]]]5]]555555555556556
+55/z=/=55=t5/t/5===/55/\55\5///////=//\/\54\/54\5\\5\\//5/5\\\5\\55\/\/\\//=/5///5//5//5/5/5//'5'/'/'/5///'z5/='55=//[5[5[wWAW5AW5
+j/j-/-jj-j--x-\xj/---Jj-j//j-]jJ-///--//-/-/-\-//-/==/=///s//c/'''t'5/'t/5t'/5t'5/t//t5'/t'/5t5'/t5t/5'='/=5=55/]t5'/55'5=5===t5/5
+RR/R/R-R/RR//R-R-R//TRTRRR-/--]/]/R]-]/R-R-RI-]RII]-/IR-/I/]]-I-/-I/]I]-I//]/]-i-i-//-/i]/-]-/]-]-]-]ii-ii/]/]/]//////]i]/]/]/j/-j
+CT--/-T-//T-T/-VV//VV/R/-/RR\=R-Z-]\]=//\]/\]=R/R0/]BRB/TB0RTR/BB/RBRTT--R-TR
+--,VV,T---V-,TR,---CC---R-T---\FF--T6--T-T-BT-T--T-T-TCCCCTC-C-T
+/0-0-66000600-000-0000Z0,Z,-,-Z5-,-,,6.-6-,,6-,-,--,.-,.-,,,--,,--,-,,-,-,--
+00//00/-/0-0-;/0-/000///00-;/;0/;/;0/-;;/;/;/00-0-000-0000/0-45455/0/40-0/0-/00/-400-/;/0-50-;/;/5;/55000/00-/'''6''/0'0'0-''0-0--
+RR0-R\RR-R0-R0--R-==RR-=-R-Z00Z040/0'0Z-5R/500-/5RRR/5050-5;R5;5/;Z0/'/00-0'0['['00[/['/[[]/000-[/0]0//0CC/0CC0/-C00-C[00-/0[/0-;;
+0-33030-3-3-0-00-00-00-0-0-30000-0--BB3B33330300-30-0000-3330302-3300--00-0-0-0--00RR0R00-RR0-0-RRR0-0-R0--RERR0R0-R-\R0-R00-\00--
+09090090C000909CC000909000-R0-R0-000---0900090009009090909090009090009F00000009100009090900091100000000001000001090009000-0--30030
+11P1111P1P1P111A1P11A111A1AA/WWWW[[[[AaAAAaAccaPACApapaaaPZZ-]A]-]]-SAXXXXXXXXxxxxxxxzxzxxxzzxsxzxzzzxz/wFC/O/4R==0009099-00-90909
