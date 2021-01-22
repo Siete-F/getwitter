@@ -3,7 +3,7 @@ Real world twitter investigation.
 
 ## Introductie
 
-Op een dag kwam ik langs een twitter account die speciaal was gemaakt voor de vogeltjes in Letland. De bedenker "Latvian creative director Voldemars Dudums", uit Letland dus plaatste wat varkensvet op een toetsenbord om de vogels een stem te geven, en zo geschiede. Het [twitter account][Twitter hungry birds] in de browser op de pc waar het varkens toetsenbord aan hing ging viral.
+Op een dag kwam ik langs een twitter account die speciaal was gemaakt voor de vogeltjes in Letland. De bedenker, "Latvian creative director Voldemars Dudums", plaatste wat varkensvet op een toetsenbord om de vogels een stem te geven, en zo geschiede. Het [twitter account][Twitter hungry birds] in de browser op de pc waar het varkens toetsenbord aan hing ging viral.
 
 <img src="./images/1_inspiration.jpeg" width="400">
 
